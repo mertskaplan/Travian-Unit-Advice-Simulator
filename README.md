@@ -1,12 +1,12 @@
 # Travian Unit Advice Simulator
 Travian Unit Advice Simulator
 
-> **DEMO:** http://travianuas.tk/
+> **Demo:** http://travianuas.tk/
 
-and
+> **Example:** http://bit.ly/1HRNFST
 
-> **EXAMPLE:** http://bit.ly/1HRNFST
+## Multi-language support ##
+Currently available in English and Turkish. And you can add another language on [Transifex](https://www.transifex.com/projects/p/travian-uas/).
 
-## LICENSE ##
-
+## License ##
 This plugin is released under the GPL v2 license. 
