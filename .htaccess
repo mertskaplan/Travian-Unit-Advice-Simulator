@@ -1,0 +1,20 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} www\.travianuas\.tk [nc]
+RewriteRule (.*) http://travianuas.tk/$1 [R=301,L,R]
+
+ErrorDocument 404 /index.php
+
+RewriteRule ^en?$ en/home [R=301]
+RewriteRule ^de?$ de/home [R=301]
+RewriteRule ^tr?$ tr/home [R=301]
+RewriteRule ^home?$ en/home [R=301]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)/(.*)/?$ $2\.php?lang=$1&%{QUERY_STRING} [L]
+
+RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /romans-advice\.php\?lang=([^&\ ]+)&?([^\ ]*)
+RewriteRule ^ /%2/romans-advice?%3 [L,R=301]
