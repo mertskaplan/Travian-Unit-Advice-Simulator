@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Travian Unit Advice Simulator\n"
 "Report-Msgid-Bugs-To: http://mertskaplan.com\n"
-"POT-Creation-Date: 2015-04-08 21:48+0200\n"
-"PO-Revision-Date: 2015-04-08 21:48+0200\n"
+"POT-Creation-Date: 2015-04-10 00:12+0200\n"
+"PO-Revision-Date: 2015-04-10 00:12+0200\n"
 "Last-Translator: Mert Salih Kaplan <mail@mertskaplan.com>\n"
 "Language-Team: Translator Team <uas@mertskaplan.com>\n"
 "Language: en\n"
@@ -16,621 +16,1280 @@ msgstr ""
 "X-Generator: Poedit 1.7.4\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: D:\\localhost\\htdocs\\travian\n"
+"X-Poedit-SearchPath-0: \n"
 
-#: D:\localhost\htdocs\travian/header.php:7
-#: D:\localhost\htdocs\travian/home.php:8
-msgid "Travian Unit Advice Simulator"
+#: /footer.php:3
+msgid "Travian UAS is released under GNU General Public License, version 3."
 msgstr ""
 
-#: D:\localhost\htdocs\travian/header.php:22
-msgid "Home"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/header.php:23
-#: D:\localhost\htdocs\travian/home.php:12
-msgid "Gauls"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/header.php:24
-#: D:\localhost\htdocs\travian/home.php:13
-msgid "Romans"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/header.php:25
-#: D:\localhost\htdocs\travian/home.php:14
-msgid "Teutons"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/header.php:32
-msgid "Add another language"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:351
-#: D:\localhost\htdocs\travian/romans-advice.php:375
-#: D:\localhost\htdocs\travian/romans-advice.php:399
-#: D:\localhost\htdocs\travian/romans-advice.php:425
-#: D:\localhost\htdocs\travian/romans-advice.php:491
-#: D:\localhost\htdocs\travian/romans-advice.php:502
-#: D:\localhost\htdocs\travian/romans-advice.php:513
-#: D:\localhost\htdocs\travian/romans-advice.php:524
-#: D:\localhost\htdocs\travian/romans-advice.php:540
-msgid "Legionnaire"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:352
-#: D:\localhost\htdocs\travian/romans-advice.php:376
-#: D:\localhost\htdocs\travian/romans-advice.php:400
-#: D:\localhost\htdocs\travian/romans-advice.php:426
-#: D:\localhost\htdocs\travian/romans-advice.php:492
-#: D:\localhost\htdocs\travian/romans-advice.php:503
-#: D:\localhost\htdocs\travian/romans-advice.php:514
-#: D:\localhost\htdocs\travian/romans-advice.php:525
-#: D:\localhost\htdocs\travian/romans-advice.php:541
-msgid "Praetorian"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:353
-#: D:\localhost\htdocs\travian/romans-advice.php:377
-#: D:\localhost\htdocs\travian/romans-advice.php:401
-#: D:\localhost\htdocs\travian/romans-advice.php:427
-#: D:\localhost\htdocs\travian/romans-advice.php:493
-#: D:\localhost\htdocs\travian/romans-advice.php:504
-#: D:\localhost\htdocs\travian/romans-advice.php:515
-#: D:\localhost\htdocs\travian/romans-advice.php:526
-#: D:\localhost\htdocs\travian/romans-advice.php:542
-msgid "Imperian"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:354
-#: D:\localhost\htdocs\travian/romans-advice.php:378
-#: D:\localhost\htdocs\travian/romans-advice.php:402
-#: D:\localhost\htdocs\travian/romans-advice.php:494
-#: D:\localhost\htdocs\travian/romans-advice.php:505
-#: D:\localhost\htdocs\travian/romans-advice.php:516
-#: D:\localhost\htdocs\travian/romans-advice.php:543
-msgid "Equites Legati"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:355
-#: D:\localhost\htdocs\travian/romans-advice.php:379
-#: D:\localhost\htdocs\travian/romans-advice.php:403
-#: D:\localhost\htdocs\travian/romans-advice.php:428
-#: D:\localhost\htdocs\travian/romans-advice.php:495
-#: D:\localhost\htdocs\travian/romans-advice.php:506
-#: D:\localhost\htdocs\travian/romans-advice.php:517
-#: D:\localhost\htdocs\travian/romans-advice.php:527
-#: D:\localhost\htdocs\travian/romans-advice.php:544
-msgid "Equites Imperatoris"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:356
-#: D:\localhost\htdocs\travian/romans-advice.php:380
-#: D:\localhost\htdocs\travian/romans-advice.php:404
-#: D:\localhost\htdocs\travian/romans-advice.php:429
-#: D:\localhost\htdocs\travian/romans-advice.php:496
-#: D:\localhost\htdocs\travian/romans-advice.php:507
-#: D:\localhost\htdocs\travian/romans-advice.php:518
-#: D:\localhost\htdocs\travian/romans-advice.php:528
-#: D:\localhost\htdocs\travian/romans-advice.php:545
-msgid "Equites Caesaris"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:357
-#: D:\localhost\htdocs\travian/romans-advice.php:381
-#: D:\localhost\htdocs\travian/romans-advice.php:405
-#: D:\localhost\htdocs\travian/romans-advice.php:497
-#: D:\localhost\htdocs\travian/romans-advice.php:508
-#: D:\localhost\htdocs\travian/romans-advice.php:519
-#: D:\localhost\htdocs\travian/romans-advice.php:546
-msgid "Battering Ram"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:358
-#: D:\localhost\htdocs\travian/romans-advice.php:382
-#: D:\localhost\htdocs\travian/romans-advice.php:406
-#: D:\localhost\htdocs\travian/romans-advice.php:498
-#: D:\localhost\htdocs\travian/romans-advice.php:509
-#: D:\localhost\htdocs\travian/romans-advice.php:520
-#: D:\localhost\htdocs\travian/romans-advice.php:547
-msgid "Fire Catapult"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:359
-#: D:\localhost\htdocs\travian/romans-advice.php:383
-#: D:\localhost\htdocs\travian/romans-advice.php:407
-#: D:\localhost\htdocs\travian/romans-advice.php:499
-#: D:\localhost\htdocs\travian/romans-advice.php:510
-#: D:\localhost\htdocs\travian/romans-advice.php:521
-#: D:\localhost\htdocs\travian/romans-advice.php:548
-msgid "Senator"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:360
-#: D:\localhost\htdocs\travian/romans-advice.php:384
-#: D:\localhost\htdocs\travian/romans-advice.php:408
-#: D:\localhost\htdocs\travian/romans-advice.php:500
-#: D:\localhost\htdocs\travian/romans-advice.php:511
-#: D:\localhost\htdocs\travian/romans-advice.php:522
-#: D:\localhost\htdocs\travian/romans-advice.php:549
-msgid "Settler"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:532
-msgid "Units"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:533
-msgid "Quantity"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:534
-msgid "Speed"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:535
-msgid "Total upkeep"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:536
-msgid "Total carrying capacity"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:537
-msgid "Total attack force"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:538
-msgid "Total infantry defense force"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:539
-msgid "Total cavalry defense force"
-msgstr ""
-
-#: D:\localhost\htdocs\travian/romans-advice.php:551
+#: /gauls-advice.php:500
+#: /romans-advice.php:500
+#: /teutons-advice.php:500
 msgid "According to following table;"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans-advice.php:552
-#: D:\localhost\htdocs\travian/romans-advice.php:557
+#: /gauls-advice.php:501
+#: /gauls-advice.php:506
+#: /romans-advice.php:501
+#: /romans-advice.php:506
+#: /teutons-advice.php:501
+#: /teutons-advice.php:506
 #, php-format
 msgid "you should train %s for attack power,"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans-advice.php:553
-#: D:\localhost\htdocs\travian/romans-advice.php:558
+#: /gauls-advice.php:502
+#: /gauls-advice.php:507
+#: /romans-advice.php:502
+#: /romans-advice.php:507
+#: /teutons-advice.php:502
+#: /teutons-advice.php:507
 #, php-format
 msgid "you should train %s for infantry deffence,"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans-advice.php:554
-#: D:\localhost\htdocs\travian/romans-advice.php:559
+#: /gauls-advice.php:503
+#: /gauls-advice.php:508
+#: /romans-advice.php:503
+#: /romans-advice.php:508
+#: /teutons-advice.php:503
+#: /teutons-advice.php:508
 #, php-format
 msgid "you should train %s for cavalry deffence,"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans-advice.php:555
-#: D:\localhost\htdocs\travian/romans-advice.php:560
+#: /gauls-advice.php:504
+#: /gauls-advice.php:509
+#: /romans-advice.php:504
+#: /romans-advice.php:509
+#: /teutons-advice.php:504
+#: /teutons-advice.php:509
 #, php-format
 msgid "you should train %s for maximum swag."
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans-advice.php:556
+#: /gauls-advice.php:505
+#: /romans-advice.php:505
+#: /teutons-advice.php:505
 msgid "And if you have upkeep problem;"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:11
+#: /gauls.php:11
+#: /romans.php:11
+#: /teutons.php:11
 msgid "Material"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:13
-#: D:\localhost\htdocs\travian/romans.php:14
+#: /gauls.php:13
+#: /gauls.php:14
+#: /romans.php:13
+#: /romans.php:14
+#: /teutons.php:13
+#: /teutons.php:14
 msgid "Wood"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:17
-#: D:\localhost\htdocs\travian/romans.php:18
+#: /gauls.php:17
+#: /gauls.php:18
+#: /romans.php:17
+#: /romans.php:18
+#: /teutons.php:17
+#: /teutons.php:18
 msgid "Clay"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:21
-#: D:\localhost\htdocs\travian/romans.php:22
+#: /gauls.php:21
+#: /gauls.php:22
+#: /romans.php:21
+#: /romans.php:22
+#: /teutons.php:21
+#: /teutons.php:22
 msgid "Iron"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:25
-#: D:\localhost\htdocs\travian/romans.php:26
+#: /gauls.php:25
+#: /gauls.php:26
+#: /romans.php:25
+#: /romans.php:26
+#: /teutons.php:25
+#: /teutons.php:26
 msgid "Crop"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:31
+#: /gauls.php:31
+#: /romans.php:31
+#: /teutons.php:31
 msgid "Hero's weapon"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:33
+#: /gauls.php:33
+#: /romans.php:33
+#: /teutons.php:33
 msgid "No weapon"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:34
-msgid "Short sword of the Legionnaire"
+#: /gauls.php:34
+msgid "Spear of the Phalanx"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:35
-msgid "Sword of the Legionnaire"
+#: /gauls.php:35
+msgid "Pike of the Phalanx"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:36
-msgid "Long sword of the Legionnaire"
+#: /gauls.php:36
+msgid "Lance of the Phalanx"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:37
-msgid "Short sword of the Praetorian"
+#: /gauls.php:37
+msgid "Short sword of the Swordsman"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:38
-msgid "Sword of the Praetorian"
+#: /gauls.php:38
+msgid "Sword of the Swordsman"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:39
-msgid "Long sword of the Praetorian"
+#: /gauls.php:39
+msgid "Long sword of the Swordsman"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:40
-msgid "Short sword of the Imperian"
+#: /gauls.php:40
+msgid "Short-bow of the Theutates"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:41
-msgid "Sword of the Imperian"
+#: /gauls.php:41
+msgid "Bow of the Theutates"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:42
-msgid "Long sword of the Imperian"
+#: /gauls.php:42
+msgid "Long-bow of the Theutates"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:43
-msgid "Short sword of the Imperatoris"
+#: /gauls.php:43
+msgid "Walking-staff of the Druidrider"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:44
-msgid "Sword of the Imperatoris"
+#: /gauls.php:44
+msgid "Staff of the Druidrider"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:45
-msgid "Long sword of the Imperatoris"
+#: /gauls.php:45
+msgid "Fighting-staff of the Druidrider"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:46
-msgid "Light lance of the Caesaris"
+#: /gauls.php:46
+msgid "Light lance of the Haeduan"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:47
-msgid "Lance of the Caesaris"
+#: /gauls.php:47
+msgid "Lance of the Haeduan"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:48
-msgid "Heavy lance of the Caesaris"
+#: /gauls.php:48
+msgid "Heavy lance of the Haeduan"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:53
+#: /gauls.php:53
+#: /romans.php:53
+#: /teutons.php:53
 msgid "Units levels"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:54
-msgid "Legionnaire's level"
+#: /gauls.php:54
+msgid "Phalanx's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:58
-#: D:\localhost\htdocs\travian/romans.php:86
-#: D:\localhost\htdocs\travian/romans.php:114
-#: D:\localhost\htdocs\travian/romans.php:142
-#: D:\localhost\htdocs\travian/romans.php:170
-#: D:\localhost\htdocs\travian/romans.php:198
-#: D:\localhost\htdocs\travian/romans.php:226
-#: D:\localhost\htdocs\travian/romans.php:254
-#: D:\localhost\htdocs\travian/romans.php:282
-#: D:\localhost\htdocs\travian/romans.php:310
+#: /gauls.php:58
+#: /gauls.php:86
+#: /gauls.php:114
+#: /gauls.php:142
+#: /gauls.php:170
+#: /gauls.php:198
+#: /gauls.php:226
+#: /gauls.php:254
+#: /gauls.php:282
+#: /gauls.php:310
+#: /romans.php:58
+#: /romans.php:86
+#: /romans.php:114
+#: /romans.php:142
+#: /romans.php:170
+#: /romans.php:198
+#: /romans.php:226
+#: /romans.php:254
+#: /romans.php:282
+#: /romans.php:310
+#: /teutons.php:58
+#: /teutons.php:86
+#: /teutons.php:114
+#: /teutons.php:142
+#: /teutons.php:170
+#: /teutons.php:198
+#: /teutons.php:226
+#: /teutons.php:254
+#: /teutons.php:282
+#: /teutons.php:310
 msgid "No level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:59
-#: D:\localhost\htdocs\travian/romans.php:87
-#: D:\localhost\htdocs\travian/romans.php:115
-#: D:\localhost\htdocs\travian/romans.php:143
-#: D:\localhost\htdocs\travian/romans.php:171
-#: D:\localhost\htdocs\travian/romans.php:199
-#: D:\localhost\htdocs\travian/romans.php:227
-#: D:\localhost\htdocs\travian/romans.php:255
-#: D:\localhost\htdocs\travian/romans.php:283
-#: D:\localhost\htdocs\travian/romans.php:311
+#: /gauls.php:59
+#: /gauls.php:87
+#: /gauls.php:115
+#: /gauls.php:143
+#: /gauls.php:171
+#: /gauls.php:199
+#: /gauls.php:227
+#: /gauls.php:255
+#: /gauls.php:283
+#: /gauls.php:311
+#: /romans.php:59
+#: /romans.php:87
+#: /romans.php:115
+#: /romans.php:143
+#: /romans.php:171
+#: /romans.php:199
+#: /romans.php:227
+#: /romans.php:255
+#: /romans.php:283
+#: /romans.php:311
+#: /teutons.php:59
+#: /teutons.php:87
+#: /teutons.php:115
+#: /teutons.php:143
+#: /teutons.php:171
+#: /teutons.php:199
+#: /teutons.php:227
+#: /teutons.php:255
+#: /teutons.php:283
+#: /teutons.php:311
 msgid "1st level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:60
-#: D:\localhost\htdocs\travian/romans.php:88
-#: D:\localhost\htdocs\travian/romans.php:116
-#: D:\localhost\htdocs\travian/romans.php:144
-#: D:\localhost\htdocs\travian/romans.php:172
-#: D:\localhost\htdocs\travian/romans.php:200
-#: D:\localhost\htdocs\travian/romans.php:228
-#: D:\localhost\htdocs\travian/romans.php:256
-#: D:\localhost\htdocs\travian/romans.php:284
-#: D:\localhost\htdocs\travian/romans.php:312
+#: /gauls.php:60
+#: /gauls.php:88
+#: /gauls.php:116
+#: /gauls.php:144
+#: /gauls.php:172
+#: /gauls.php:200
+#: /gauls.php:228
+#: /gauls.php:256
+#: /gauls.php:284
+#: /gauls.php:312
+#: /romans.php:60
+#: /romans.php:88
+#: /romans.php:116
+#: /romans.php:144
+#: /romans.php:172
+#: /romans.php:200
+#: /romans.php:228
+#: /romans.php:256
+#: /romans.php:284
+#: /romans.php:312
+#: /teutons.php:60
+#: /teutons.php:88
+#: /teutons.php:116
+#: /teutons.php:144
+#: /teutons.php:172
+#: /teutons.php:200
+#: /teutons.php:228
+#: /teutons.php:256
+#: /teutons.php:284
+#: /teutons.php:312
 msgid "2nd level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:61
-#: D:\localhost\htdocs\travian/romans.php:89
-#: D:\localhost\htdocs\travian/romans.php:117
-#: D:\localhost\htdocs\travian/romans.php:145
-#: D:\localhost\htdocs\travian/romans.php:173
-#: D:\localhost\htdocs\travian/romans.php:201
-#: D:\localhost\htdocs\travian/romans.php:229
-#: D:\localhost\htdocs\travian/romans.php:257
-#: D:\localhost\htdocs\travian/romans.php:285
-#: D:\localhost\htdocs\travian/romans.php:313
+#: /gauls.php:61
+#: /gauls.php:89
+#: /gauls.php:117
+#: /gauls.php:145
+#: /gauls.php:173
+#: /gauls.php:201
+#: /gauls.php:229
+#: /gauls.php:257
+#: /gauls.php:285
+#: /gauls.php:313
+#: /romans.php:61
+#: /romans.php:89
+#: /romans.php:117
+#: /romans.php:145
+#: /romans.php:173
+#: /romans.php:201
+#: /romans.php:229
+#: /romans.php:257
+#: /romans.php:285
+#: /romans.php:313
+#: /teutons.php:61
+#: /teutons.php:89
+#: /teutons.php:117
+#: /teutons.php:145
+#: /teutons.php:173
+#: /teutons.php:201
+#: /teutons.php:229
+#: /teutons.php:257
+#: /teutons.php:285
+#: /teutons.php:313
 msgid "3rd level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:62
-#: D:\localhost\htdocs\travian/romans.php:90
-#: D:\localhost\htdocs\travian/romans.php:118
-#: D:\localhost\htdocs\travian/romans.php:146
-#: D:\localhost\htdocs\travian/romans.php:174
-#: D:\localhost\htdocs\travian/romans.php:202
-#: D:\localhost\htdocs\travian/romans.php:230
-#: D:\localhost\htdocs\travian/romans.php:258
-#: D:\localhost\htdocs\travian/romans.php:286
-#: D:\localhost\htdocs\travian/romans.php:314
+#: /gauls.php:62
+#: /gauls.php:90
+#: /gauls.php:118
+#: /gauls.php:146
+#: /gauls.php:174
+#: /gauls.php:202
+#: /gauls.php:230
+#: /gauls.php:258
+#: /gauls.php:286
+#: /gauls.php:314
+#: /romans.php:62
+#: /romans.php:90
+#: /romans.php:118
+#: /romans.php:146
+#: /romans.php:174
+#: /romans.php:202
+#: /romans.php:230
+#: /romans.php:258
+#: /romans.php:286
+#: /romans.php:314
+#: /teutons.php:62
+#: /teutons.php:90
+#: /teutons.php:118
+#: /teutons.php:146
+#: /teutons.php:174
+#: /teutons.php:202
+#: /teutons.php:230
+#: /teutons.php:258
+#: /teutons.php:286
+#: /teutons.php:314
 msgid "4th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:63
-#: D:\localhost\htdocs\travian/romans.php:91
-#: D:\localhost\htdocs\travian/romans.php:119
-#: D:\localhost\htdocs\travian/romans.php:147
-#: D:\localhost\htdocs\travian/romans.php:175
-#: D:\localhost\htdocs\travian/romans.php:203
-#: D:\localhost\htdocs\travian/romans.php:231
-#: D:\localhost\htdocs\travian/romans.php:259
-#: D:\localhost\htdocs\travian/romans.php:287
-#: D:\localhost\htdocs\travian/romans.php:315
+#: /gauls.php:63
+#: /gauls.php:91
+#: /gauls.php:119
+#: /gauls.php:147
+#: /gauls.php:175
+#: /gauls.php:203
+#: /gauls.php:231
+#: /gauls.php:259
+#: /gauls.php:287
+#: /gauls.php:315
+#: /romans.php:63
+#: /romans.php:91
+#: /romans.php:119
+#: /romans.php:147
+#: /romans.php:175
+#: /romans.php:203
+#: /romans.php:231
+#: /romans.php:259
+#: /romans.php:287
+#: /romans.php:315
+#: /teutons.php:63
+#: /teutons.php:91
+#: /teutons.php:119
+#: /teutons.php:147
+#: /teutons.php:175
+#: /teutons.php:203
+#: /teutons.php:231
+#: /teutons.php:259
+#: /teutons.php:287
+#: /teutons.php:315
 msgid "5th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:64
-#: D:\localhost\htdocs\travian/romans.php:92
-#: D:\localhost\htdocs\travian/romans.php:120
-#: D:\localhost\htdocs\travian/romans.php:148
-#: D:\localhost\htdocs\travian/romans.php:176
-#: D:\localhost\htdocs\travian/romans.php:204
-#: D:\localhost\htdocs\travian/romans.php:232
-#: D:\localhost\htdocs\travian/romans.php:260
-#: D:\localhost\htdocs\travian/romans.php:288
-#: D:\localhost\htdocs\travian/romans.php:316
+#: /gauls.php:64
+#: /gauls.php:92
+#: /gauls.php:120
+#: /gauls.php:148
+#: /gauls.php:176
+#: /gauls.php:204
+#: /gauls.php:232
+#: /gauls.php:260
+#: /gauls.php:288
+#: /gauls.php:316
+#: /romans.php:64
+#: /romans.php:92
+#: /romans.php:120
+#: /romans.php:148
+#: /romans.php:176
+#: /romans.php:204
+#: /romans.php:232
+#: /romans.php:260
+#: /romans.php:288
+#: /romans.php:316
+#: /teutons.php:64
+#: /teutons.php:92
+#: /teutons.php:120
+#: /teutons.php:148
+#: /teutons.php:176
+#: /teutons.php:204
+#: /teutons.php:232
+#: /teutons.php:260
+#: /teutons.php:288
+#: /teutons.php:316
 msgid "6th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:65
-#: D:\localhost\htdocs\travian/romans.php:93
-#: D:\localhost\htdocs\travian/romans.php:121
-#: D:\localhost\htdocs\travian/romans.php:149
-#: D:\localhost\htdocs\travian/romans.php:177
-#: D:\localhost\htdocs\travian/romans.php:205
-#: D:\localhost\htdocs\travian/romans.php:233
-#: D:\localhost\htdocs\travian/romans.php:261
-#: D:\localhost\htdocs\travian/romans.php:289
-#: D:\localhost\htdocs\travian/romans.php:317
+#: /gauls.php:65
+#: /gauls.php:93
+#: /gauls.php:121
+#: /gauls.php:149
+#: /gauls.php:177
+#: /gauls.php:205
+#: /gauls.php:233
+#: /gauls.php:261
+#: /gauls.php:289
+#: /gauls.php:317
+#: /romans.php:65
+#: /romans.php:93
+#: /romans.php:121
+#: /romans.php:149
+#: /romans.php:177
+#: /romans.php:205
+#: /romans.php:233
+#: /romans.php:261
+#: /romans.php:289
+#: /romans.php:317
+#: /teutons.php:65
+#: /teutons.php:93
+#: /teutons.php:121
+#: /teutons.php:149
+#: /teutons.php:177
+#: /teutons.php:205
+#: /teutons.php:233
+#: /teutons.php:261
+#: /teutons.php:289
+#: /teutons.php:317
 msgid "7th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:66
-#: D:\localhost\htdocs\travian/romans.php:94
-#: D:\localhost\htdocs\travian/romans.php:122
-#: D:\localhost\htdocs\travian/romans.php:150
-#: D:\localhost\htdocs\travian/romans.php:178
-#: D:\localhost\htdocs\travian/romans.php:206
-#: D:\localhost\htdocs\travian/romans.php:234
-#: D:\localhost\htdocs\travian/romans.php:262
-#: D:\localhost\htdocs\travian/romans.php:290
-#: D:\localhost\htdocs\travian/romans.php:318
+#: /gauls.php:66
+#: /gauls.php:94
+#: /gauls.php:122
+#: /gauls.php:150
+#: /gauls.php:178
+#: /gauls.php:206
+#: /gauls.php:234
+#: /gauls.php:262
+#: /gauls.php:290
+#: /gauls.php:318
+#: /romans.php:66
+#: /romans.php:94
+#: /romans.php:122
+#: /romans.php:150
+#: /romans.php:178
+#: /romans.php:206
+#: /romans.php:234
+#: /romans.php:262
+#: /romans.php:290
+#: /romans.php:318
+#: /teutons.php:66
+#: /teutons.php:94
+#: /teutons.php:122
+#: /teutons.php:150
+#: /teutons.php:178
+#: /teutons.php:206
+#: /teutons.php:234
+#: /teutons.php:262
+#: /teutons.php:290
+#: /teutons.php:318
 msgid "8th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:67
-#: D:\localhost\htdocs\travian/romans.php:95
-#: D:\localhost\htdocs\travian/romans.php:123
-#: D:\localhost\htdocs\travian/romans.php:151
-#: D:\localhost\htdocs\travian/romans.php:179
-#: D:\localhost\htdocs\travian/romans.php:207
-#: D:\localhost\htdocs\travian/romans.php:235
-#: D:\localhost\htdocs\travian/romans.php:263
-#: D:\localhost\htdocs\travian/romans.php:291
-#: D:\localhost\htdocs\travian/romans.php:319
+#: /gauls.php:67
+#: /gauls.php:95
+#: /gauls.php:123
+#: /gauls.php:151
+#: /gauls.php:179
+#: /gauls.php:207
+#: /gauls.php:235
+#: /gauls.php:263
+#: /gauls.php:291
+#: /gauls.php:319
+#: /romans.php:67
+#: /romans.php:95
+#: /romans.php:123
+#: /romans.php:151
+#: /romans.php:179
+#: /romans.php:207
+#: /romans.php:235
+#: /romans.php:263
+#: /romans.php:291
+#: /romans.php:319
+#: /teutons.php:67
+#: /teutons.php:95
+#: /teutons.php:123
+#: /teutons.php:151
+#: /teutons.php:179
+#: /teutons.php:207
+#: /teutons.php:235
+#: /teutons.php:263
+#: /teutons.php:291
+#: /teutons.php:319
 msgid "9th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:68
-#: D:\localhost\htdocs\travian/romans.php:96
-#: D:\localhost\htdocs\travian/romans.php:124
-#: D:\localhost\htdocs\travian/romans.php:152
-#: D:\localhost\htdocs\travian/romans.php:180
-#: D:\localhost\htdocs\travian/romans.php:208
-#: D:\localhost\htdocs\travian/romans.php:236
-#: D:\localhost\htdocs\travian/romans.php:264
-#: D:\localhost\htdocs\travian/romans.php:292
-#: D:\localhost\htdocs\travian/romans.php:320
+#: /gauls.php:68
+#: /gauls.php:96
+#: /gauls.php:124
+#: /gauls.php:152
+#: /gauls.php:180
+#: /gauls.php:208
+#: /gauls.php:236
+#: /gauls.php:264
+#: /gauls.php:292
+#: /gauls.php:320
+#: /romans.php:68
+#: /romans.php:96
+#: /romans.php:124
+#: /romans.php:152
+#: /romans.php:180
+#: /romans.php:208
+#: /romans.php:236
+#: /romans.php:264
+#: /romans.php:292
+#: /romans.php:320
+#: /teutons.php:68
+#: /teutons.php:96
+#: /teutons.php:124
+#: /teutons.php:152
+#: /teutons.php:180
+#: /teutons.php:208
+#: /teutons.php:236
+#: /teutons.php:264
+#: /teutons.php:292
+#: /teutons.php:320
 msgid "10th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:69
-#: D:\localhost\htdocs\travian/romans.php:97
-#: D:\localhost\htdocs\travian/romans.php:125
-#: D:\localhost\htdocs\travian/romans.php:153
-#: D:\localhost\htdocs\travian/romans.php:181
-#: D:\localhost\htdocs\travian/romans.php:209
-#: D:\localhost\htdocs\travian/romans.php:237
-#: D:\localhost\htdocs\travian/romans.php:265
-#: D:\localhost\htdocs\travian/romans.php:293
-#: D:\localhost\htdocs\travian/romans.php:321
+#: /gauls.php:69
+#: /gauls.php:97
+#: /gauls.php:125
+#: /gauls.php:153
+#: /gauls.php:181
+#: /gauls.php:209
+#: /gauls.php:237
+#: /gauls.php:265
+#: /gauls.php:293
+#: /gauls.php:321
+#: /romans.php:69
+#: /romans.php:97
+#: /romans.php:125
+#: /romans.php:153
+#: /romans.php:181
+#: /romans.php:209
+#: /romans.php:237
+#: /romans.php:265
+#: /romans.php:293
+#: /romans.php:321
+#: /teutons.php:69
+#: /teutons.php:97
+#: /teutons.php:125
+#: /teutons.php:153
+#: /teutons.php:181
+#: /teutons.php:209
+#: /teutons.php:237
+#: /teutons.php:265
+#: /teutons.php:293
+#: /teutons.php:321
 msgid "11th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:70
-#: D:\localhost\htdocs\travian/romans.php:98
-#: D:\localhost\htdocs\travian/romans.php:126
-#: D:\localhost\htdocs\travian/romans.php:154
-#: D:\localhost\htdocs\travian/romans.php:182
-#: D:\localhost\htdocs\travian/romans.php:210
-#: D:\localhost\htdocs\travian/romans.php:238
-#: D:\localhost\htdocs\travian/romans.php:266
-#: D:\localhost\htdocs\travian/romans.php:294
-#: D:\localhost\htdocs\travian/romans.php:322
+#: /gauls.php:70
+#: /gauls.php:98
+#: /gauls.php:126
+#: /gauls.php:154
+#: /gauls.php:182
+#: /gauls.php:210
+#: /gauls.php:238
+#: /gauls.php:266
+#: /gauls.php:294
+#: /gauls.php:322
+#: /romans.php:70
+#: /romans.php:98
+#: /romans.php:126
+#: /romans.php:154
+#: /romans.php:182
+#: /romans.php:210
+#: /romans.php:238
+#: /romans.php:266
+#: /romans.php:294
+#: /romans.php:322
+#: /teutons.php:70
+#: /teutons.php:98
+#: /teutons.php:126
+#: /teutons.php:154
+#: /teutons.php:182
+#: /teutons.php:210
+#: /teutons.php:238
+#: /teutons.php:266
+#: /teutons.php:294
+#: /teutons.php:322
 msgid "12th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:71
-#: D:\localhost\htdocs\travian/romans.php:99
-#: D:\localhost\htdocs\travian/romans.php:127
-#: D:\localhost\htdocs\travian/romans.php:155
-#: D:\localhost\htdocs\travian/romans.php:183
-#: D:\localhost\htdocs\travian/romans.php:211
-#: D:\localhost\htdocs\travian/romans.php:239
-#: D:\localhost\htdocs\travian/romans.php:267
-#: D:\localhost\htdocs\travian/romans.php:295
-#: D:\localhost\htdocs\travian/romans.php:323
+#: /gauls.php:71
+#: /gauls.php:99
+#: /gauls.php:127
+#: /gauls.php:155
+#: /gauls.php:183
+#: /gauls.php:211
+#: /gauls.php:239
+#: /gauls.php:267
+#: /gauls.php:295
+#: /gauls.php:323
+#: /romans.php:71
+#: /romans.php:99
+#: /romans.php:127
+#: /romans.php:155
+#: /romans.php:183
+#: /romans.php:211
+#: /romans.php:239
+#: /romans.php:267
+#: /romans.php:295
+#: /romans.php:323
+#: /teutons.php:71
+#: /teutons.php:99
+#: /teutons.php:127
+#: /teutons.php:155
+#: /teutons.php:183
+#: /teutons.php:211
+#: /teutons.php:239
+#: /teutons.php:267
+#: /teutons.php:295
+#: /teutons.php:323
 msgid "13th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:72
-#: D:\localhost\htdocs\travian/romans.php:100
-#: D:\localhost\htdocs\travian/romans.php:128
-#: D:\localhost\htdocs\travian/romans.php:156
-#: D:\localhost\htdocs\travian/romans.php:184
-#: D:\localhost\htdocs\travian/romans.php:212
-#: D:\localhost\htdocs\travian/romans.php:240
-#: D:\localhost\htdocs\travian/romans.php:268
-#: D:\localhost\htdocs\travian/romans.php:296
-#: D:\localhost\htdocs\travian/romans.php:324
+#: /gauls.php:72
+#: /gauls.php:100
+#: /gauls.php:128
+#: /gauls.php:156
+#: /gauls.php:184
+#: /gauls.php:212
+#: /gauls.php:240
+#: /gauls.php:268
+#: /gauls.php:296
+#: /gauls.php:324
+#: /romans.php:72
+#: /romans.php:100
+#: /romans.php:128
+#: /romans.php:156
+#: /romans.php:184
+#: /romans.php:212
+#: /romans.php:240
+#: /romans.php:268
+#: /romans.php:296
+#: /romans.php:324
+#: /teutons.php:72
+#: /teutons.php:100
+#: /teutons.php:128
+#: /teutons.php:156
+#: /teutons.php:184
+#: /teutons.php:212
+#: /teutons.php:240
+#: /teutons.php:268
+#: /teutons.php:296
+#: /teutons.php:324
 msgid "14th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:73
-#: D:\localhost\htdocs\travian/romans.php:101
-#: D:\localhost\htdocs\travian/romans.php:129
-#: D:\localhost\htdocs\travian/romans.php:157
-#: D:\localhost\htdocs\travian/romans.php:185
-#: D:\localhost\htdocs\travian/romans.php:213
-#: D:\localhost\htdocs\travian/romans.php:241
-#: D:\localhost\htdocs\travian/romans.php:269
-#: D:\localhost\htdocs\travian/romans.php:297
-#: D:\localhost\htdocs\travian/romans.php:325
+#: /gauls.php:73
+#: /gauls.php:101
+#: /gauls.php:129
+#: /gauls.php:157
+#: /gauls.php:185
+#: /gauls.php:213
+#: /gauls.php:241
+#: /gauls.php:269
+#: /gauls.php:297
+#: /gauls.php:325
+#: /romans.php:73
+#: /romans.php:101
+#: /romans.php:129
+#: /romans.php:157
+#: /romans.php:185
+#: /romans.php:213
+#: /romans.php:241
+#: /romans.php:269
+#: /romans.php:297
+#: /romans.php:325
+#: /teutons.php:73
+#: /teutons.php:101
+#: /teutons.php:129
+#: /teutons.php:157
+#: /teutons.php:185
+#: /teutons.php:213
+#: /teutons.php:241
+#: /teutons.php:269
+#: /teutons.php:297
+#: /teutons.php:325
 msgid "15th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:74
-#: D:\localhost\htdocs\travian/romans.php:102
-#: D:\localhost\htdocs\travian/romans.php:130
-#: D:\localhost\htdocs\travian/romans.php:158
-#: D:\localhost\htdocs\travian/romans.php:186
-#: D:\localhost\htdocs\travian/romans.php:214
-#: D:\localhost\htdocs\travian/romans.php:242
-#: D:\localhost\htdocs\travian/romans.php:270
-#: D:\localhost\htdocs\travian/romans.php:298
-#: D:\localhost\htdocs\travian/romans.php:326
+#: /gauls.php:74
+#: /gauls.php:102
+#: /gauls.php:130
+#: /gauls.php:158
+#: /gauls.php:186
+#: /gauls.php:214
+#: /gauls.php:242
+#: /gauls.php:270
+#: /gauls.php:298
+#: /gauls.php:326
+#: /romans.php:74
+#: /romans.php:102
+#: /romans.php:130
+#: /romans.php:158
+#: /romans.php:186
+#: /romans.php:214
+#: /romans.php:242
+#: /romans.php:270
+#: /romans.php:298
+#: /romans.php:326
+#: /teutons.php:74
+#: /teutons.php:102
+#: /teutons.php:130
+#: /teutons.php:158
+#: /teutons.php:186
+#: /teutons.php:214
+#: /teutons.php:242
+#: /teutons.php:270
+#: /teutons.php:298
+#: /teutons.php:326
 msgid "16th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:75
-#: D:\localhost\htdocs\travian/romans.php:103
-#: D:\localhost\htdocs\travian/romans.php:131
-#: D:\localhost\htdocs\travian/romans.php:159
-#: D:\localhost\htdocs\travian/romans.php:187
-#: D:\localhost\htdocs\travian/romans.php:215
-#: D:\localhost\htdocs\travian/romans.php:243
-#: D:\localhost\htdocs\travian/romans.php:271
-#: D:\localhost\htdocs\travian/romans.php:299
-#: D:\localhost\htdocs\travian/romans.php:327
+#: /gauls.php:75
+#: /gauls.php:103
+#: /gauls.php:131
+#: /gauls.php:159
+#: /gauls.php:187
+#: /gauls.php:215
+#: /gauls.php:243
+#: /gauls.php:271
+#: /gauls.php:299
+#: /gauls.php:327
+#: /romans.php:75
+#: /romans.php:103
+#: /romans.php:131
+#: /romans.php:159
+#: /romans.php:187
+#: /romans.php:215
+#: /romans.php:243
+#: /romans.php:271
+#: /romans.php:299
+#: /romans.php:327
+#: /teutons.php:75
+#: /teutons.php:103
+#: /teutons.php:131
+#: /teutons.php:159
+#: /teutons.php:187
+#: /teutons.php:215
+#: /teutons.php:243
+#: /teutons.php:271
+#: /teutons.php:299
+#: /teutons.php:327
 msgid "17th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:76
-#: D:\localhost\htdocs\travian/romans.php:104
-#: D:\localhost\htdocs\travian/romans.php:132
-#: D:\localhost\htdocs\travian/romans.php:160
-#: D:\localhost\htdocs\travian/romans.php:188
-#: D:\localhost\htdocs\travian/romans.php:216
-#: D:\localhost\htdocs\travian/romans.php:244
-#: D:\localhost\htdocs\travian/romans.php:272
-#: D:\localhost\htdocs\travian/romans.php:300
-#: D:\localhost\htdocs\travian/romans.php:328
+#: /gauls.php:76
+#: /gauls.php:104
+#: /gauls.php:132
+#: /gauls.php:160
+#: /gauls.php:188
+#: /gauls.php:216
+#: /gauls.php:244
+#: /gauls.php:272
+#: /gauls.php:300
+#: /gauls.php:328
+#: /romans.php:76
+#: /romans.php:104
+#: /romans.php:132
+#: /romans.php:160
+#: /romans.php:188
+#: /romans.php:216
+#: /romans.php:244
+#: /romans.php:272
+#: /romans.php:300
+#: /romans.php:328
+#: /teutons.php:76
+#: /teutons.php:104
+#: /teutons.php:132
+#: /teutons.php:160
+#: /teutons.php:188
+#: /teutons.php:216
+#: /teutons.php:244
+#: /teutons.php:272
+#: /teutons.php:300
+#: /teutons.php:328
 msgid "18th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:77
-#: D:\localhost\htdocs\travian/romans.php:105
-#: D:\localhost\htdocs\travian/romans.php:133
-#: D:\localhost\htdocs\travian/romans.php:161
-#: D:\localhost\htdocs\travian/romans.php:189
-#: D:\localhost\htdocs\travian/romans.php:217
-#: D:\localhost\htdocs\travian/romans.php:245
-#: D:\localhost\htdocs\travian/romans.php:273
-#: D:\localhost\htdocs\travian/romans.php:301
-#: D:\localhost\htdocs\travian/romans.php:329
+#: /gauls.php:77
+#: /gauls.php:105
+#: /gauls.php:133
+#: /gauls.php:161
+#: /gauls.php:189
+#: /gauls.php:217
+#: /gauls.php:245
+#: /gauls.php:273
+#: /gauls.php:301
+#: /gauls.php:329
+#: /romans.php:77
+#: /romans.php:105
+#: /romans.php:133
+#: /romans.php:161
+#: /romans.php:189
+#: /romans.php:217
+#: /romans.php:245
+#: /romans.php:273
+#: /romans.php:301
+#: /romans.php:329
+#: /teutons.php:77
+#: /teutons.php:105
+#: /teutons.php:133
+#: /teutons.php:161
+#: /teutons.php:189
+#: /teutons.php:217
+#: /teutons.php:245
+#: /teutons.php:273
+#: /teutons.php:301
+#: /teutons.php:329
 msgid "19th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:78
-#: D:\localhost\htdocs\travian/romans.php:106
-#: D:\localhost\htdocs\travian/romans.php:134
-#: D:\localhost\htdocs\travian/romans.php:162
-#: D:\localhost\htdocs\travian/romans.php:190
-#: D:\localhost\htdocs\travian/romans.php:218
-#: D:\localhost\htdocs\travian/romans.php:246
-#: D:\localhost\htdocs\travian/romans.php:274
-#: D:\localhost\htdocs\travian/romans.php:302
-#: D:\localhost\htdocs\travian/romans.php:330
+#: /gauls.php:78
+#: /gauls.php:106
+#: /gauls.php:134
+#: /gauls.php:162
+#: /gauls.php:190
+#: /gauls.php:218
+#: /gauls.php:246
+#: /gauls.php:274
+#: /gauls.php:302
+#: /gauls.php:330
+#: /romans.php:78
+#: /romans.php:106
+#: /romans.php:134
+#: /romans.php:162
+#: /romans.php:190
+#: /romans.php:218
+#: /romans.php:246
+#: /romans.php:274
+#: /romans.php:302
+#: /romans.php:330
+#: /teutons.php:78
+#: /teutons.php:106
+#: /teutons.php:134
+#: /teutons.php:162
+#: /teutons.php:190
+#: /teutons.php:218
+#: /teutons.php:246
+#: /teutons.php:274
+#: /teutons.php:302
+#: /teutons.php:330
 msgid "20th level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:82
-msgid "Praetorian's level"
+#: /gauls.php:82
+msgid "Swordsman's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:110
-msgid "Imperian's level"
+#: /gauls.php:110
+msgid "Pathfinder's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:138
-msgid "Equites Legati's level"
+#: /gauls.php:138
+msgid "Theutates Thunder's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:166
-msgid "Equites Imperatoris' level"
+#: /gauls.php:166
+msgid "Druidrider's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:194
-msgid "Equites Caesaris' level"
+#: /gauls.php:194
+msgid "Haeduan's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:222
-msgid "Battering Ram's level"
+#: /gauls.php:222
+#: /teutons.php:222
+msgid "Ram's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:250
-msgid "Fire Catapult's level"
+#: /gauls.php:250
+msgid "Trebuchet's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:278
-msgid "Senator's level"
+#: /gauls.php:278
+msgid "Chieftain's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:306
+#: /gauls.php:306
+#: /romans.php:306
+#: /teutons.php:306
 msgid "Settler's level"
 msgstr ""
 
-#: D:\localhost\htdocs\travian/romans.php:336
+#: /gauls.php:336
+#: /romans.php:336
+#: /teutons.php:336
 msgid "Give me an advice"
+msgstr ""
+
+#: /header.php:7
+#: /home.php:8
+msgid "Travian Unit Advice Simulator"
+msgstr ""
+
+#: /header.php:22
+msgid "Home"
+msgstr ""
+
+#: /header.php:23
+#: /home.php:12
+msgid "Gauls"
+msgstr ""
+
+#: /header.php:24
+#: /home.php:13
+msgid "Romans"
+msgstr ""
+
+#: /header.php:25
+#: /home.php:14
+msgid "Teutons"
+msgstr ""
+
+#: /header.php:32
+msgid "Add another language"
+msgstr ""
+
+#: /locale.php:35
+msgid "Units"
+msgstr ""
+
+#: /locale.php:36
+msgid "Quantity"
+msgstr ""
+
+#: /locale.php:37
+msgid "Speed"
+msgstr ""
+
+#: /locale.php:38
+msgid "Total upkeep"
+msgstr ""
+
+#: /locale.php:39
+msgid "Total carrying capacity"
+msgstr ""
+
+#: /locale.php:40
+msgid "Total attack force"
+msgstr ""
+
+#: /locale.php:41
+msgid "Total infantry defense force"
+msgstr ""
+
+#: /locale.php:42
+msgid "Total cavalry defense force"
+msgstr ""
+
+#: /locale.php:43
+msgid "Legionnaire"
+msgstr ""
+
+#: /locale.php:44
+msgid "Praetorian"
+msgstr ""
+
+#: /locale.php:45
+msgid "Imperian"
+msgstr ""
+
+#: /locale.php:46
+msgid "Equites Legati"
+msgstr ""
+
+#: /locale.php:47
+msgid "Equites Imperatoris"
+msgstr ""
+
+#: /locale.php:48
+msgid "Equites Caesaris"
+msgstr ""
+
+#: /locale.php:49
+msgid "Battering Ram"
+msgstr ""
+
+#: /locale.php:50
+msgid "Fire Catapult"
+msgstr ""
+
+#: /locale.php:51
+msgid "Senator"
+msgstr ""
+
+#: /locale.php:52
+msgid "Settler"
+msgstr ""
+
+#: /locale.php:53
+msgid "Phalanx"
+msgstr ""
+
+#: /locale.php:54
+msgid "Swordsman"
+msgstr ""
+
+#: /locale.php:55
+msgid "Pathfinder"
+msgstr ""
+
+#: /locale.php:56
+msgid "Theutates Thunder"
+msgstr ""
+
+#: /locale.php:57
+msgid "Druidrider"
+msgstr ""
+
+#: /locale.php:58
+msgid "Haeduan"
+msgstr ""
+
+#: /locale.php:59
+msgid "Ram"
+msgstr ""
+
+#: /locale.php:60
+msgid "Trebuchet"
+msgstr ""
+
+#: /locale.php:61
+msgid "Chieftain"
+msgstr ""
+
+#: /locale.php:62
+msgid "Clubswinger"
+msgstr ""
+
+#: /locale.php:63
+msgid "Spearman"
+msgstr ""
+
+#: /locale.php:64
+msgid "Axeman"
+msgstr ""
+
+#: /locale.php:65
+msgid "Scout"
+msgstr ""
+
+#: /locale.php:66
+msgid "Paladin"
+msgstr ""
+
+#: /locale.php:67
+msgid "Teutonic Knight"
+msgstr ""
+
+#: /locale.php:68
+msgid "Catapult"
+msgstr ""
+
+#: /locale.php:69
+msgid "Chief"
+msgstr ""
+
+#: /romans.php:34
+msgid "Short sword of the Legionnaire"
+msgstr ""
+
+#: /romans.php:35
+msgid "Sword of the Legionnaire"
+msgstr ""
+
+#: /romans.php:36
+msgid "Long sword of the Legionnaire"
+msgstr ""
+
+#: /romans.php:37
+msgid "Short sword of the Praetorian"
+msgstr ""
+
+#: /romans.php:38
+msgid "Sword of the Praetorian"
+msgstr ""
+
+#: /romans.php:39
+msgid "Long sword of the Praetorian"
+msgstr ""
+
+#: /romans.php:40
+msgid "Short sword of the Imperian"
+msgstr ""
+
+#: /romans.php:41
+msgid "Sword of the Imperian"
+msgstr ""
+
+#: /romans.php:42
+msgid "Long sword of the Imperian"
+msgstr ""
+
+#: /romans.php:43
+msgid "Short sword of the Imperatoris"
+msgstr ""
+
+#: /romans.php:44
+msgid "Sword of the Imperatoris"
+msgstr ""
+
+#: /romans.php:45
+msgid "Long sword of the Imperatoris"
+msgstr ""
+
+#: /romans.php:46
+msgid "Light lance of the Caesaris"
+msgstr ""
+
+#: /romans.php:47
+msgid "Lance of the Caesaris"
+msgstr ""
+
+#: /romans.php:48
+msgid "Heavy lance of the Caesaris"
+msgstr ""
+
+#: /romans.php:54
+msgid "Legionnaire's level"
+msgstr ""
+
+#: /romans.php:82
+msgid "Praetorian's level"
+msgstr ""
+
+#: /romans.php:110
+msgid "Imperian's level"
+msgstr ""
+
+#: /romans.php:138
+msgid "Equites Legati's level"
+msgstr ""
+
+#: /romans.php:166
+msgid "Equites Imperatoris' level"
+msgstr ""
+
+#: /romans.php:194
+msgid "Equites Caesaris' level"
+msgstr ""
+
+#: /romans.php:222
+msgid "Battering Ram's level"
+msgstr ""
+
+#: /romans.php:250
+msgid "Fire Catapult's level"
+msgstr ""
+
+#: /romans.php:278
+msgid "Senator's level"
+msgstr ""
+
+#: /teutons.php:34
+msgid "Club of the Clubswinger"
+msgstr ""
+
+#: /teutons.php:35
+msgid "Mace of the Clubswinger"
+msgstr ""
+
+#: /teutons.php:36
+msgid "Morning star of the Clubswinger"
+msgstr ""
+
+#: /teutons.php:37
+msgid "Spear of the Spearman"
+msgstr ""
+
+#: /teutons.php:38
+msgid "Spike of the Spearman"
+msgstr ""
+
+#: /teutons.php:39
+msgid "Lance of the Spearman"
+msgstr ""
+
+#: /teutons.php:40
+msgid "Hatchet of the Axeman"
+msgstr ""
+
+#: /teutons.php:41
+msgid "Axe of the Axeman"
+msgstr ""
+
+#: /teutons.php:42
+msgid "Battle axe of the Axeman"
+msgstr ""
+
+#: /teutons.php:43
+msgid "Light hammer of the Paladin"
+msgstr ""
+
+#: /teutons.php:44
+msgid "Hammer of the Paladin"
+msgstr ""
+
+#: /teutons.php:45
+msgid "Heavy hammer of the Paladin"
+msgstr ""
+
+#: /teutons.php:46
+msgid "Short sword of the Teutonic Knight"
+msgstr ""
+
+#: /teutons.php:47
+msgid "Sword of the Teutonic Knight"
+msgstr ""
+
+#: /teutons.php:48
+msgid "Long sword of the Teutonic Knight"
+msgstr ""
+
+#: /teutons.php:54
+msgid "Clubswinger's level"
+msgstr ""
+
+#: /teutons.php:82
+msgid "Spearman's level"
+msgstr ""
+
+#: /teutons.php:110
+msgid "Axeman's level"
+msgstr ""
+
+#: /teutons.php:138
+msgid "Scout's level"
+msgstr ""
+
+#: /teutons.php:166
+msgid "Paladin's level"
+msgstr ""
+
+#: /teutons.php:194
+msgid "Teutonic Knight's level"
+msgstr ""
+
+#: /teutons.php:250
+msgid "Catapult's level"
+msgstr ""
+
+#: /teutons.php:278
+msgid "Chief's level"
 msgstr ""
 
 #~ msgid "Add your language"

@@ -29,7 +29,7 @@
 		<a class="tooltip-bottom" data-tooltip="English" href="/en/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="english" alt="English" src="/images/x.gif" /></a> 
 <!--		<a class="tooltip-bottom" data-tooltip="Deutsch" href="/de/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="german" alt="Deutsch" src="/images/x.gif" /></a> -->
 		<a class="tooltip-bottom" data-tooltip="Türkçe" href="/tr/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="turkish" alt="Türkçe" src="/images/x.gif" /></a> 
-		<a class="tooltip-left" data-tooltip="<?php echo _('Add another language') ?>" href="https://www.transifex.com/projects/p/travian-uas/"><img id="add-language" alt="<?php echo _('Add another language') ?>" src="/images/x.gif" /></a>
+		<a class="tooltip-left" data-tooltip="<?php echo _('Add another language') ?>" href="https://www.transifex.com/projects/p/travian-uas/" target="_blank"><img id="add-language" alt="<?php echo _('Add another language') ?>" src="/images/x.gif" /></a>
 	</div>
 </div>
 

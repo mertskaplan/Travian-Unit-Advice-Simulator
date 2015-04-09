@@ -118,6 +118,18 @@ body {
 	text-align: right;
 }
 
+	.license {
+		bottom: 6px;
+		color: #221e1b;
+		position: fixed;
+		right: 100px;
+		text-decoration: none;
+	}
+	
+	.license:hover {
+		color: #024457;
+	}
+
 	.github {
 		background-image: url("/images/cloud.png");
 		background-repeat: no-repeat;
@@ -428,58 +440,129 @@ img.crop {
 .unit-icon img {
     height: 16px;
     width: 16px;
+	margin-top: 2px;
 }
 
-	.unit-icon img.legionnaire {
+	.legionnaire {
 		background-image: url("/images/units/legionnaire.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.praetorian {
+	.praetorian {
 		background-image: url("/images/units/praetorian.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.imperian {
+	.imperian {
 		background-image: url("/images/units/imperian.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.equites-legati {
+	.equites-legati {
 		background-image: url("/images/units/equites-legati.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.equites-imperatoris {
+	.equites-imperatoris {
 		background-image: url("/images/units/equites-imperatoris.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.equites-caesaris {
+	.equites-caesaris {
 		background-image: url("/images/units/equites-caesaris.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.battering-ram {
+	.battering-ram {
 		background-image: url("/images/units/battering-ram.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.fire-catapult {
+	.fire-catapult {
 		background-image: url("/images/units/fire-catapult.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.senator {
+	.senator {
 		background-image: url("/images/units/senator.gif");
-		margin-top: 2px;
 	}
 
-	.unit-icon img.roman-settler {
+	.roman-settler {
 		background-image: url("/images/units/roman-settler.gif");
-		margin-top: 2px;
 	}
-	
+
+	.phalanx {
+		background-image: url("/images/units/phalanx.gif");
+	}
+
+	.swordsman {
+		background-image: url("/images/units/swordsman.gif");
+	}
+
+	.pathfinder {
+		background-image: url("/images/units/pathfinder.gif");
+	}
+
+	.theutates-thunder {
+		background-image: url("/images/units/theutates-thunder.gif");
+	}
+
+	.druidrider {
+		background-image: url("/images/units/druidrider.gif");
+	}
+
+	.haeduan {
+		background-image: url("/images/units/haeduan.gif");
+	}
+
+	.gaul-ram {
+		background-image: url("/images/units/gaul-ram.gif");
+	}
+
+	.trebuchet {
+		background-image: url("/images/units/trebuchet.gif");
+	}
+
+	.chieftain {
+		background-image: url("/images/units/chieftain.gif");
+	}
+
+	.gaul-settler {
+		background-image: url("/images/units/gaul-settler.gif");
+	}
+
+	.clubswinger {
+		background-image: url("/images/units/clubswinger.gif");
+	}
+
+	.spearman {
+		background-image: url("/images/units/spearman.gif");
+	}
+
+	.axeman {
+		background-image: url("/images/units/axeman.gif");
+	}
+
+	.scout {
+		background-image: url("/images/units/scout.gif");
+	}
+
+	.paladin {
+		background-image: url("/images/units/paladin.gif");
+	}
+
+	.teutonic-knight {
+		background-image: url("/images/units/teutonic-knight.gif");
+	}
+
+	.teutonic-ram {
+		background-image: url("/images/units/teutonic-ram.gif");
+	}
+
+	.catapult {
+		background-image: url("/images/units/catapult.gif");
+	}
+
+	.chief {
+		background-image: url("/images/units/chief.gif");
+	}
+
+	.teutonic-settler {
+		background-image: url("/images/units/teutonic-settler.gif");
+	}
+
 .advice-table img {
     height: 16px;
     width: 16px;
@@ -513,44 +596,4 @@ img.crop {
 	
 	.advice-table img.cav-def {
 		background-image: url("/images/cav-def.png");
-	}
-	
-	.advice-table img.legionnaire {
-		background-image: url("/images/units/legionnaire.gif");
-	}
-
-	.advice-table img.praetorian {
-		background-image: url("/images/units/praetorian.gif");
-	}
-
-	.advice-table img.imperian {
-		background-image: url("/images/units/imperian.gif");
-	}
-
-	.advice-table img.equites-legati {
-		background-image: url("/images/units/equites-legati.gif");
-	}
-
-	.advice-table img.equites-imperatoris {
-		background-image: url("/images/units/equites-imperatoris.gif");
-	}
-
-	.advice-table img.equites-caesaris {
-		background-image: url("/images/units/equites-caesaris.gif");
-	}
-
-	.advice-table img.battering-ram {
-		background-image: url("/images/units/battering-ram.gif");
-	}
-
-	.advice-table img.fire-catapult {
-		background-image: url("/images/units/fire-catapult.gif");
-	}
-
-	.advice-table img.senator {
-		background-image: url("/images/units/senator.gif");
-	}
-
-	.advice-table img.roman-settler {
-		background-image: url("/images/units/roman-settler.gif");
 	}

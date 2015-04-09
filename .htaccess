@@ -18,3 +18,9 @@ RewriteRule ^(.*)/(.*)/?$ $2\.php?lang=$1&%{QUERY_STRING} [L]
 
 RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /romans-advice\.php\?lang=([^&\ ]+)&?([^\ ]*)
 RewriteRule ^ /%2/romans-advice?%3 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /gauls-advice\.php\?lang=([^&\ ]+)&?([^\ ]*)
+RewriteRule ^ /%2/gauls-advice?%3 [L,R=301]
+
+RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /teutons-advice\.php\?lang=([^&\ ]+)&?([^\ ]*)
+RewriteRule ^ /%2/teutons-advice?%3 [L,R=301]

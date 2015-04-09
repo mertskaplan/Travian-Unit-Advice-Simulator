@@ -9,4 +9,4 @@ Travian Unit Advice Simulator
 Currently available in English and Turkish. And you can add another language on [Transifex](https://www.transifex.com/projects/p/travian-uas/).
 
 ## License ##
-This plugin is released under the GPL v2 license. 
+This plugin is released under the GPL v3 license. 
