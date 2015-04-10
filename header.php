@@ -10,9 +10,9 @@
 	<meta name="copyright" content="GNU General Public License, version 3" />
 	<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
 	<link rel="icon" type="image/png" href="/images/favicon.png" />
-	<link type="text/css" rel="stylesheet" href="/styles/tooltip.css" />
-	<link type="text/css" rel="stylesheet" href="/styles/table-style.css" />
-	<link type="text/css" rel="stylesheet" href="/styles/style.css" />
+	<link type="text/css" rel="stylesheet" href="/styles/tooltip.min.css" />
+	<link type="text/css" rel="stylesheet" href="/styles/table-style.min.css" />
+	<link type="text/css" rel="stylesheet" href="/styles/style.min.css" />
 </head>
 
 <body>
@@ -28,9 +28,9 @@
 		</ul>
 	</div>
 	<div class="lang">
-		<a class="tooltip-bottom" data-tooltip="English" href="/en/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="english" alt="English" src="/images/x.gif" /></a> 
-<!--		<a class="tooltip-bottom" data-tooltip="Deutsch" href="/de/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="german" alt="Deutsch" src="/images/x.gif" /></a> -->
-		<a class="tooltip-bottom" data-tooltip="Türkçe" href="/tr/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="turkish" alt="Türkçe" src="/images/x.gif" /></a> 
-		<a class="tooltip-left" data-tooltip="<?php echo _('Add another language') ?>" href="https://www.transifex.com/projects/p/travian-uas/" target="_blank"><img id="add-language" alt="<?php echo _('Add another language') ?>" src="/images/x.gif" /></a>
+		<a class="tooltip-bottom" data-tooltip="English" href="/en/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="english" alt="English" height="1" width="1" src="/images/x.gif" /></a> 
+<!--		<a class="tooltip-bottom" data-tooltip="Deutsch" href="/de/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="german" alt="Deutsch" height="1" width="1" src="/images/x.gif" /></a> -->
+		<a class="tooltip-bottom" data-tooltip="Türkçe" href="/tr/<?php echo $tokens[sizeof($tokens)-1]; ?>"><img id="turkish" alt="Türkçe" height="1" width="1" src="/images/x.gif" /></a> 
+		<a class="tooltip-left" data-tooltip="<?php echo _('Add another language') ?>" href="https://www.transifex.com/projects/p/travian-uas/" target="_blank"><img id="add-language" alt="<?php echo _('Add another language') ?>" height="1" width="1" src="/images/x.gif" /></a>
 	</div>
 </div>

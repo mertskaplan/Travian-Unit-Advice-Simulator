@@ -10,19 +10,19 @@
 	<div class="material">
 	<h2><?php echo _('Material') ?></h2>
 		<div class="material-cell">
-			<a class="tooltip-right" data-tooltip="<?php echo _('Wood'); ?>"><img class="wood" alt="<?php echo _('Wood'); ?>" src="/images/x.gif" /></a><br />
+			<a class="tooltip-right" data-tooltip="<?php echo _('Wood'); ?>"><img class="wood" alt="<?php echo _('Wood'); ?>" height="1" width="1" src="/images/x.gif" /></a><br />
 			<input class="textbox textbox-material" type="text" name="wood" value="" placeholder="<?php echo _('Wood'); ?>" size="10" autofocus />
 		</div>
 		<div class="material-cell">
-			<a class="tooltip-right" data-tooltip="<?php echo _('Clay'); ?>"><img class="clay" alt="<?php echo _('Clay'); ?>" src="/images/x.gif" /></a><br />
+			<a class="tooltip-right" data-tooltip="<?php echo _('Clay'); ?>"><img class="clay" alt="<?php echo _('Clay'); ?>" height="1" width="1" src="/images/x.gif" /></a><br />
 			<input class="textbox textbox-material" type="text" name="clay" value="" placeholder="<?php echo _('Clay'); ?>" size="10" />
 		</div>
 		<div class="material-cell">
-			<a class="tooltip-left" data-tooltip="<?php echo _('Iron'); ?>"><img class="iron" alt="<?php echo _('Iron'); ?>" src="/images/x.gif" /></a><br />
+			<a class="tooltip-left" data-tooltip="<?php echo _('Iron'); ?>"><img class="iron" alt="<?php echo _('Iron'); ?>" height="1" width="1" src="/images/x.gif" /></a><br />
 			<input class="textbox textbox-material" type="text" name="iron" value="" placeholder="<?php echo _('Iron'); ?>" size="10" />
 		</div>
 		<div class="material-cell">
-			<a class="tooltip-left" data-tooltip="<?php echo _('Crop'); ?>"><img class="crop" alt="<?php echo _('Crop'); ?>" src="/images/x.gif" /></a><br />
+			<a class="tooltip-left" data-tooltip="<?php echo _('Crop'); ?>"><img class="crop" alt="<?php echo _('Crop'); ?>" height="1" width="1" src="/images/x.gif" /></a><br />
 			<input class="textbox textbox-material" type="text" name="crop" value="" placeholder="<?php echo _('Crop'); ?>" size="10" />
 		</div>
 	</div>
@@ -52,7 +52,7 @@
 	<div class="units-levels">
 		<h2><?php echo _('Units levels') ?></h2>
 		<div class="unit"><?php echo _('Phalanx\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="phalanx" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="phalanx" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="phalanx_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -80,7 +80,7 @@
 		</div>
 
 		<div class="unit"><?php echo _('Swordsman\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="swordsman" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="swordsman" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="swordsman_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -108,7 +108,7 @@
 		</div>
 
 		<div class="unit"><?php echo _('Pathfinder\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="pathfinder" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="pathfinder" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="pathfinder_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -136,7 +136,7 @@
 		</div>
 		
 		<div class="unit"><?php echo _('Theutates Thunder\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="theutates-thunder" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="theutates-thunder" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="thunder_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -164,7 +164,7 @@
 		</div>
 
 		<div class="unit"><?php echo _('Druidrider\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="druidrider" src="/images/x.gif"></div>		
+		<div class="unit-icon"><img class="druidrider" height="1" width="1" src="/images/x.gif"></div>		
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="druidrider_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -192,7 +192,7 @@
 		</div>
 		
 		<div class="unit"><?php echo _('Haeduan\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="haeduan" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="haeduan" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="haeduan_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -220,7 +220,7 @@
 		</div>
 		
 		<div class="unit"><?php echo _('Ram\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="gaul-ram" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="gaul-ram" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="ram_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -248,7 +248,7 @@
 		</div>
 		
 		<div class="unit"><?php echo _('Trebuchet\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="trebuchet" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="trebuchet" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="trebuchet_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -276,7 +276,7 @@
 		</div>
 		
 		<div class="unit"><?php echo _('Chieftain\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="chieftain" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="chieftain" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="chieftain_level">
 				<option value="0"><?php echo _('No level') ?></option>
@@ -304,7 +304,7 @@
 		</div>
 
 		<div class="unit"><?php echo _('Settler\'s level') . ': '; ?></div>
-		<div class="unit-icon"><img class="gaul-settler" src="/images/x.gif"></div>
+		<div class="unit-icon"><img class="gaul-settler" height="1" width="1" src="/images/x.gif"></div>
 		<div class="level">
 			<select class="textbox textbox-units-levels" name="settler_level">
 				<option value="0"><?php echo _('No level') ?></option>

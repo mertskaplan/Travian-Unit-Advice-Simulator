@@ -24,3 +24,24 @@ RewriteRule ^ /%2/gauls-advice?%3 [L,R=301]
 
 RewriteCond %{THE_REQUEST} ^(GET|HEAD)\ /teutons-advice\.php\?lang=([^&\ ]+)&?([^\ ]*)
 RewriteRule ^ /%2/teutons-advice?%3 [L,R=301]
+
+# Enable GZIP
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+BrowserMatch ^Mozilla/4 gzip-only-text/html
+BrowserMatch ^Mozilla/4\.0[678] no-gzip
+BrowserMatch \bMSIE !no-gzip !gzip-only-text/html
+</ifmodule>
+
+<ifmodule mod_expires.c>
+  <filesmatch "\.(ico|jpg|gif|png|svg|css|woff)$">
+       ExpiresActive on
+       ExpiresDefault "access plus 1 year"
+   </filesmatch>
+</ifmodule>
+
+<ifmodule mod_headers.c>
+  <filesmatch "\.(ico|svg|jpg|png|gif|css|woff)$">
+  Header set Cache-Control "max-age=2678400, public"
+  </filesmatch>
+</ifmodule>

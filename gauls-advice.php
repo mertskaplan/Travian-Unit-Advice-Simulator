@@ -530,17 +530,17 @@
 			<table class="responstable" border="1">
 				<tr>
 					<th class="table-units" colspan="2"><strong>$locale_units</strong></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" height="1" width="1" src="/images/x.gif" /></a></th>
 				</tr>
 				<tr>
 					<td class="table-units">$locale_phalanx</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_phalanx"><img class="phalanx" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_phalanx"><img class="phalanx" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_phalanx</td>
 					<td>$phalanx_speed</td>
 					<td>$format_phalanx_upkeep</td>
@@ -551,7 +551,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_swordsman</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_swordsman"><img class="swordsman" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_swordsman"><img class="swordsman" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_swordsman</td>
 					<td>$swordsman_speed</td>
 					<td>$format_swordsman_upkeep</td>
@@ -562,7 +562,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_thunder</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_thunder"><img class="theutates-thunder" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_thunder"><img class="theutates-thunder" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_thunder</td>
 					<td>$thunder_speed</td>
 					<td>$format_thunder_upkeep</td>
@@ -573,7 +573,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_pathfinder</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_pathfinder"><img class="pathfinder" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_pathfinder"><img class="pathfinder" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_pathfinder</td>
 					<td>$pathfinder_speed</td>
 					<td>$format_pathfinder_upkeep</td>
@@ -584,7 +584,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_druidrider</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_druidrider"><img class="druidrider" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_druidrider"><img class="druidrider" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_druidrider</td>
 					<td>$druidrider_speed</td>
 					<td>$format_druidrider_upkeep</td>
@@ -595,7 +595,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_haeduan</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_haeduan"><img class="haeduan" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_haeduan"><img class="haeduan" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_haeduan</td>
 					<td>$haeduan_speed</td>
 					<td>$format_haeduan_upkeep</td>
@@ -606,7 +606,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_ram</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_ram"><img class="gaul-ram" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_ram"><img class="gaul-ram" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_ram</td>
 					<td>$ram_speed</td>
 					<td>$format_ram_upkeep</td>
@@ -617,7 +617,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_trebuchet</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_trebuchet"><img class="trebuchet" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_trebuchet"><img class="trebuchet" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_trebuchet</td>
 					<td>$trebuchet_speed</td>
 					<td>$format_trebuchet_upkeep</td>
@@ -628,7 +628,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_chieftain</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_chieftain"><img class="chieftain" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_chieftain"><img class="chieftain" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_chieftain</td>
 					<td>$chieftain_speed</td>
 					<td>$format_chieftain_upkeep</td>
@@ -639,7 +639,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_settler</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="gaul-settler" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="gaul-settler" height="1" width="1" src="/images/x.gif" /></a></td>
 					<td>$format_possible_settler</td>
 					<td>$settler_speed</td>
 					<td>$format_settler_upkeep</td>
