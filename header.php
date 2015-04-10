@@ -7,7 +7,9 @@
     <title><?php echo _('Travian Unit Advice Simulator') ?></title>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<meta name="author" content="mertskaplan" />
-	<meta name="copyright" content="Tüm hakları kamuya aittir." />
+	<meta name="copyright" content="GNU General Public License, version 3" />
+	<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+	<link rel="icon" type="image/png" href="/images/favicon.png" />
 	<link type="text/css" rel="stylesheet" href="/styles/tooltip.css" />
 	<link type="text/css" rel="stylesheet" href="/styles/table-style.css" />
 	<link type="text/css" rel="stylesheet" href="/styles/style.css" />
@@ -32,9 +34,3 @@
 		<a class="tooltip-left" data-tooltip="<?php echo _('Add another language') ?>" href="https://www.transifex.com/projects/p/travian-uas/" target="_blank"><img id="add-language" alt="<?php echo _('Add another language') ?>" src="/images/x.gif" /></a>
 	</div>
 </div>
-
-<!-- <div style="margin: 50px 0 0 50px; position: fixed; top: 0;">Dil: <?php echo @$lang; ?><br />
-Adres: <?php echo $_SERVER['REQUEST_URI']; ?><br />
-Tarayıcı dili: <?php echo substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2); ?><br />
-Adres son dizini: <?php echo $tokens[sizeof($tokens)-1]; ?>
-</div> -->
