@@ -2,8 +2,8 @@ body {
 	background-image: url("/images/fon.png");
     background-position: left top;
     background-repeat: repeat;
-	font-family: Helvetica, sans-serif;
-	font-size: 90%;
+	font-family: Open Sans, sans-serif;
+	font-size: 85%;
 	margin: 0;
 	z-index: 0;
 }
@@ -13,6 +13,13 @@ body {
   font-style: normal;
   font-weight: 400;
   src: local('Merienda'), local('Merienda-Regular_0_wt'), url(/fonts/merienda-regular.woff2) format('woff2'), url(/fonts/merienda-regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url(/fonts/opensans.woff2) format('woff2'), url(/fonts/opensans.woff) format('woff');
 }
 
 .header {
