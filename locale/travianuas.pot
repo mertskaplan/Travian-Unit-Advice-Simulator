@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Travian Unit Advice Simulator\n"
 "Report-Msgid-Bugs-To: http://mertskaplan.com\n"
-"POT-Creation-Date: 2015-04-11 14:40+0200\n"
-"PO-Revision-Date: 2015-04-11 14:40+0200\n"
+"POT-Creation-Date: 2015-04-11 20:58+0200\n"
+"PO-Revision-Date: 2015-04-11 21:00+0200\n"
 "Last-Translator: Mert Salih Kaplan <mail@mertskaplan.com>\n"
 "Language-Team: Translator Team <uas@mertskaplan.com>\n"
 "Language: en\n"
@@ -16,11 +16,10 @@ msgstr ""
 "X-Generator: Poedit 1.7.4\n"
 "X-Poedit-KeywordsList: _\n"
 "X-Poedit-Basepath: .\n"
-"X-Poedit-SearchPath-0: D:\\localhost\\htdocs\\travian\\Travian-Unit-Advice-"
-"Simulator\n"
 
 #: Travian-Unit-Advice-Simulator/footer.php:3
-msgid "Travian UAS is released under GNU General Public License, version 3."
+#, php-format
+msgid "coded with %2$s by %1$s"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/gauls-advice.php:500
@@ -937,178 +936,181 @@ msgstr ""
 msgid "Give me an advice"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/header.php:7
-#: Travian-Unit-Advice-Simulator/home.php:8
-msgid "Travian Unit Advice Simulator"
-msgstr ""
-
-#: Travian-Unit-Advice-Simulator/header.php:24
+#: Travian-Unit-Advice-Simulator/header.php:29
 msgid "Home"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/header.php:25
+#: Travian-Unit-Advice-Simulator/header.php:30
 #: Travian-Unit-Advice-Simulator/home.php:13
 msgid "Gauls"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/header.php:26
+#: Travian-Unit-Advice-Simulator/header.php:31
 #: Travian-Unit-Advice-Simulator/home.php:14
 msgid "Romans"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/header.php:27
+#: Travian-Unit-Advice-Simulator/header.php:32
 #: Travian-Unit-Advice-Simulator/home.php:15
 msgid "Teutons"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/header.php:34
+#: Travian-Unit-Advice-Simulator/header.php:39
 msgid "Add another language"
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/home.php:9
+#: Travian-Unit-Advice-Simulator/locale.php:36
+msgid "Travian Unit Advice Simulator"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:37
 msgid ""
 "Travian Unit Advice Simulator is a tool which gives advice to you about you "
 "should train which unit according to your available materials for Travian "
 "4.4."
 msgstr ""
 
-#: Travian-Unit-Advice-Simulator/locale.php:35
-msgid "Units"
-msgstr ""
-
-#: Travian-Unit-Advice-Simulator/locale.php:36
-msgid "Quantity"
-msgstr ""
-
-#: Travian-Unit-Advice-Simulator/locale.php:37
-msgid "Speed"
-msgstr ""
-
 #: Travian-Unit-Advice-Simulator/locale.php:38
-msgid "Total upkeep"
-msgstr ""
-
-#: Travian-Unit-Advice-Simulator/locale.php:39
-msgid "Total carrying capacity"
+msgid "Travian UAS is released under GNU General Public License, version 3."
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:40
-msgid "Total attack force"
+msgid "Units"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:41
-msgid "Total infantry defense force"
+msgid "Quantity"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:42
-msgid "Total cavalry defense force"
+msgid "Speed"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:43
-msgid "Legionnaire"
+msgid "Total upkeep"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:44
-msgid "Praetorian"
+msgid "Total carrying capacity"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:45
-msgid "Imperian"
+msgid "Total attack force"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:46
-msgid "Equites Legati"
+msgid "Total infantry defense force"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:47
-msgid "Equites Imperatoris"
+msgid "Total cavalry defense force"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:48
-msgid "Equites Caesaris"
+msgid "Legionnaire"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:49
-msgid "Battering Ram"
+msgid "Praetorian"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:50
-msgid "Fire Catapult"
+msgid "Imperian"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:51
-msgid "Senator"
+msgid "Equites Legati"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:52
-msgid "Settler"
+msgid "Equites Imperatoris"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:53
-msgid "Phalanx"
+msgid "Equites Caesaris"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:54
-msgid "Swordsman"
+msgid "Battering Ram"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:55
-msgid "Pathfinder"
+msgid "Fire Catapult"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:56
-msgid "Theutates Thunder"
+msgid "Senator"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:57
-msgid "Druidrider"
+msgid "Settler"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:58
-msgid "Haeduan"
+msgid "Phalanx"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:59
-msgid "Ram"
+msgid "Swordsman"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:60
-msgid "Trebuchet"
+msgid "Pathfinder"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:61
-msgid "Chieftain"
+msgid "Theutates Thunder"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:62
-msgid "Clubswinger"
+msgid "Druidrider"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:63
-msgid "Spearman"
+msgid "Haeduan"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:64
-msgid "Axeman"
+msgid "Ram"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:65
-msgid "Scout"
+msgid "Trebuchet"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:66
-msgid "Paladin"
+msgid "Chieftain"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:67
-msgid "Teutonic Knight"
+msgid "Clubswinger"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:68
-msgid "Catapult"
+msgid "Spearman"
 msgstr ""
 
 #: Travian-Unit-Advice-Simulator/locale.php:69
+msgid "Axeman"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:70
+msgid "Scout"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:71
+msgid "Paladin"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:72
+msgid "Teutonic Knight"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:73
+msgid "Catapult"
+msgstr ""
+
+#: Travian-Unit-Advice-Simulator/locale.php:74
 msgid "Chief"
 msgstr ""
 

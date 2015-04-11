@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Travian UAS\n"
 "Report-Msgid-Bugs-To: http://mertskaplan.com\n"
-"POT-Creation-Date: 2015-04-11 14:40+0200\n"
-"PO-Revision-Date: 2015-04-11 14:46+0200\n"
+"POT-Creation-Date: 2015-04-11 20:58+0200\n"
+"PO-Revision-Date: 2015-04-11 21:03+0200\n"
 "Last-Translator: Mert Salih Kaplan <mail@mertskaplan.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/travian-uas/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
@@ -19,8 +19,9 @@ msgstr ""
 "X-Poedit-KeywordsList: _\n"
 
 #: Travian-Unit-Advice-Simulator/footer.php:3
-msgid "Travian UAS is released under GNU General Public License, version 3."
-msgstr "Travian UAS, GNU Genel Kamu Lisansı, sürüm 3 altında yayınlandı."
+#, php-format
+msgid "coded with %2$s by %1$s"
+msgstr "%1$s tarafından %2$s ile kodlandı"
 
 #: Travian-Unit-Advice-Simulator/gauls-advice.php:500 Travian-Unit-Advice-Simulator/romans-advice.php:500
 #: Travian-Unit-Advice-Simulator/teutons-advice.php:500
@@ -60,42 +61,35 @@ msgstr "en fazla yağma için %s yetiştirmelisiniz."
 msgid "And if you have upkeep problem;"
 msgstr "Ve eğer tahıl probleminiz varsa;"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:11 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:11
-#: Travian-Unit-Advice-Simulator/teutons.php:11
+#: Travian-Unit-Advice-Simulator/gauls.php:11 Travian-Unit-Advice-Simulator/romans.php:11 Travian-Unit-Advice-Simulator/teutons.php:11
 msgid "Material"
 msgstr "Hammadde"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:13 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:14
-#: Travian-Unit-Advice-Simulator/romans.php:13 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:14
-#: Travian-Unit-Advice-Simulator/teutons.php:13 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:14
+#: Travian-Unit-Advice-Simulator/gauls.php:13 Travian-Unit-Advice-Simulator/gauls.php:14 Travian-Unit-Advice-Simulator/romans.php:13
+#: Travian-Unit-Advice-Simulator/romans.php:14 Travian-Unit-Advice-Simulator/teutons.php:13 Travian-Unit-Advice-Simulator/teutons.php:14
 msgid "Wood"
 msgstr "Odun"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:17 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:18
-#: Travian-Unit-Advice-Simulator/romans.php:17 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:18
-#: Travian-Unit-Advice-Simulator/teutons.php:17 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:18
+#: Travian-Unit-Advice-Simulator/gauls.php:17 Travian-Unit-Advice-Simulator/gauls.php:18 Travian-Unit-Advice-Simulator/romans.php:17
+#: Travian-Unit-Advice-Simulator/romans.php:18 Travian-Unit-Advice-Simulator/teutons.php:17 Travian-Unit-Advice-Simulator/teutons.php:18
 msgid "Clay"
 msgstr "Tuğla"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:21 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:22
-#: Travian-Unit-Advice-Simulator/romans.php:21 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:22
-#: Travian-Unit-Advice-Simulator/teutons.php:21 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:22
+#: Travian-Unit-Advice-Simulator/gauls.php:21 Travian-Unit-Advice-Simulator/gauls.php:22 Travian-Unit-Advice-Simulator/romans.php:21
+#: Travian-Unit-Advice-Simulator/romans.php:22 Travian-Unit-Advice-Simulator/teutons.php:21 Travian-Unit-Advice-Simulator/teutons.php:22
 msgid "Iron"
 msgstr "Demir"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:25 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:26
-#: Travian-Unit-Advice-Simulator/romans.php:25 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:26
-#: Travian-Unit-Advice-Simulator/teutons.php:25 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:26
+#: Travian-Unit-Advice-Simulator/gauls.php:25 Travian-Unit-Advice-Simulator/gauls.php:26 Travian-Unit-Advice-Simulator/romans.php:25
+#: Travian-Unit-Advice-Simulator/romans.php:26 Travian-Unit-Advice-Simulator/teutons.php:25 Travian-Unit-Advice-Simulator/teutons.php:26
 msgid "Crop"
 msgstr "Tahıl"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:31 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:31
-#: Travian-Unit-Advice-Simulator/teutons.php:31
+#: Travian-Unit-Advice-Simulator/gauls.php:31 Travian-Unit-Advice-Simulator/romans.php:31 Travian-Unit-Advice-Simulator/teutons.php:31
 msgid "Hero's weapon"
 msgstr "Kahraman'ın silahı"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:33 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:33
-#: Travian-Unit-Advice-Simulator/teutons.php:33
+#: Travian-Unit-Advice-Simulator/gauls.php:33 Travian-Unit-Advice-Simulator/romans.php:33 Travian-Unit-Advice-Simulator/teutons.php:33
 msgid "No weapon"
 msgstr "Silah yok"
 
@@ -159,8 +153,7 @@ msgstr "Heduan'ın Mızrağı"
 msgid "Heavy lance of the Haeduan"
 msgstr "Heduan'ın Ağır Mızrağı"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:53 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:53
-#: Travian-Unit-Advice-Simulator/teutons.php:53
+#: Travian-Unit-Advice-Simulator/gauls.php:53 Travian-Unit-Advice-Simulator/romans.php:53 Travian-Unit-Advice-Simulator/teutons.php:53
 msgid "Units levels"
 msgstr "Birim seviyeleri"
 
@@ -168,381 +161,276 @@ msgstr "Birim seviyeleri"
 msgid "Phalanx's level"
 msgstr "Phalanx'ın seviyesi"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:58 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:86
-#: Travian-Unit-Advice-Simulator/gauls.php:114 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:142
-#: Travian-Unit-Advice-Simulator/gauls.php:170 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:198
-#: Travian-Unit-Advice-Simulator/gauls.php:226 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:254
-#: Travian-Unit-Advice-Simulator/gauls.php:282 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:310
-#: Travian-Unit-Advice-Simulator/romans.php:58 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:86
-#: Travian-Unit-Advice-Simulator/romans.php:114 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:142
-#: Travian-Unit-Advice-Simulator/romans.php:170 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:198
-#: Travian-Unit-Advice-Simulator/romans.php:226 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:254
-#: Travian-Unit-Advice-Simulator/romans.php:282 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:310
-#: Travian-Unit-Advice-Simulator/teutons.php:58 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:86
-#: Travian-Unit-Advice-Simulator/teutons.php:114 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:142
-#: Travian-Unit-Advice-Simulator/teutons.php:170 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:198
-#: Travian-Unit-Advice-Simulator/teutons.php:226 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:254
-#: Travian-Unit-Advice-Simulator/teutons.php:282 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:310
+#: Travian-Unit-Advice-Simulator/gauls.php:58 Travian-Unit-Advice-Simulator/gauls.php:86 Travian-Unit-Advice-Simulator/gauls.php:114
+#: Travian-Unit-Advice-Simulator/gauls.php:142 Travian-Unit-Advice-Simulator/gauls.php:170 Travian-Unit-Advice-Simulator/gauls.php:198
+#: Travian-Unit-Advice-Simulator/gauls.php:226 Travian-Unit-Advice-Simulator/gauls.php:254 Travian-Unit-Advice-Simulator/gauls.php:282
+#: Travian-Unit-Advice-Simulator/gauls.php:310 Travian-Unit-Advice-Simulator/romans.php:58 Travian-Unit-Advice-Simulator/romans.php:86
+#: Travian-Unit-Advice-Simulator/romans.php:114 Travian-Unit-Advice-Simulator/romans.php:142 Travian-Unit-Advice-Simulator/romans.php:170
+#: Travian-Unit-Advice-Simulator/romans.php:198 Travian-Unit-Advice-Simulator/romans.php:226 Travian-Unit-Advice-Simulator/romans.php:254
+#: Travian-Unit-Advice-Simulator/romans.php:282 Travian-Unit-Advice-Simulator/romans.php:310 Travian-Unit-Advice-Simulator/teutons.php:58
+#: Travian-Unit-Advice-Simulator/teutons.php:86 Travian-Unit-Advice-Simulator/teutons.php:114 Travian-Unit-Advice-Simulator/teutons.php:142
+#: Travian-Unit-Advice-Simulator/teutons.php:170 Travian-Unit-Advice-Simulator/teutons.php:198 Travian-Unit-Advice-Simulator/teutons.php:226
+#: Travian-Unit-Advice-Simulator/teutons.php:254 Travian-Unit-Advice-Simulator/teutons.php:282 Travian-Unit-Advice-Simulator/teutons.php:310
 msgid "No level"
 msgstr "Seviye yok"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:59 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:87
-#: Travian-Unit-Advice-Simulator/gauls.php:115 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:143
-#: Travian-Unit-Advice-Simulator/gauls.php:171 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:199
-#: Travian-Unit-Advice-Simulator/gauls.php:227 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:255
-#: Travian-Unit-Advice-Simulator/gauls.php:283 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:311
-#: Travian-Unit-Advice-Simulator/romans.php:59 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:87
-#: Travian-Unit-Advice-Simulator/romans.php:115 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:143
-#: Travian-Unit-Advice-Simulator/romans.php:171 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:199
-#: Travian-Unit-Advice-Simulator/romans.php:227 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:255
-#: Travian-Unit-Advice-Simulator/romans.php:283 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:311
-#: Travian-Unit-Advice-Simulator/teutons.php:59 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:87
-#: Travian-Unit-Advice-Simulator/teutons.php:115 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:143
-#: Travian-Unit-Advice-Simulator/teutons.php:171 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:199
-#: Travian-Unit-Advice-Simulator/teutons.php:227 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:255
-#: Travian-Unit-Advice-Simulator/teutons.php:283 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:311
+#: Travian-Unit-Advice-Simulator/gauls.php:59 Travian-Unit-Advice-Simulator/gauls.php:87 Travian-Unit-Advice-Simulator/gauls.php:115
+#: Travian-Unit-Advice-Simulator/gauls.php:143 Travian-Unit-Advice-Simulator/gauls.php:171 Travian-Unit-Advice-Simulator/gauls.php:199
+#: Travian-Unit-Advice-Simulator/gauls.php:227 Travian-Unit-Advice-Simulator/gauls.php:255 Travian-Unit-Advice-Simulator/gauls.php:283
+#: Travian-Unit-Advice-Simulator/gauls.php:311 Travian-Unit-Advice-Simulator/romans.php:59 Travian-Unit-Advice-Simulator/romans.php:87
+#: Travian-Unit-Advice-Simulator/romans.php:115 Travian-Unit-Advice-Simulator/romans.php:143 Travian-Unit-Advice-Simulator/romans.php:171
+#: Travian-Unit-Advice-Simulator/romans.php:199 Travian-Unit-Advice-Simulator/romans.php:227 Travian-Unit-Advice-Simulator/romans.php:255
+#: Travian-Unit-Advice-Simulator/romans.php:283 Travian-Unit-Advice-Simulator/romans.php:311 Travian-Unit-Advice-Simulator/teutons.php:59
+#: Travian-Unit-Advice-Simulator/teutons.php:87 Travian-Unit-Advice-Simulator/teutons.php:115 Travian-Unit-Advice-Simulator/teutons.php:143
+#: Travian-Unit-Advice-Simulator/teutons.php:171 Travian-Unit-Advice-Simulator/teutons.php:199 Travian-Unit-Advice-Simulator/teutons.php:227
+#: Travian-Unit-Advice-Simulator/teutons.php:255 Travian-Unit-Advice-Simulator/teutons.php:283 Travian-Unit-Advice-Simulator/teutons.php:311
 msgid "1st level"
 msgstr "1'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:60 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:88
-#: Travian-Unit-Advice-Simulator/gauls.php:116 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:144
-#: Travian-Unit-Advice-Simulator/gauls.php:172 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:200
-#: Travian-Unit-Advice-Simulator/gauls.php:228 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:256
-#: Travian-Unit-Advice-Simulator/gauls.php:284 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:312
-#: Travian-Unit-Advice-Simulator/romans.php:60 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:88
-#: Travian-Unit-Advice-Simulator/romans.php:116 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:144
-#: Travian-Unit-Advice-Simulator/romans.php:172 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:200
-#: Travian-Unit-Advice-Simulator/romans.php:228 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:256
-#: Travian-Unit-Advice-Simulator/romans.php:284 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:312
-#: Travian-Unit-Advice-Simulator/teutons.php:60 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:88
-#: Travian-Unit-Advice-Simulator/teutons.php:116 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:144
-#: Travian-Unit-Advice-Simulator/teutons.php:172 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:200
-#: Travian-Unit-Advice-Simulator/teutons.php:228 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:256
-#: Travian-Unit-Advice-Simulator/teutons.php:284 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:312
+#: Travian-Unit-Advice-Simulator/gauls.php:60 Travian-Unit-Advice-Simulator/gauls.php:88 Travian-Unit-Advice-Simulator/gauls.php:116
+#: Travian-Unit-Advice-Simulator/gauls.php:144 Travian-Unit-Advice-Simulator/gauls.php:172 Travian-Unit-Advice-Simulator/gauls.php:200
+#: Travian-Unit-Advice-Simulator/gauls.php:228 Travian-Unit-Advice-Simulator/gauls.php:256 Travian-Unit-Advice-Simulator/gauls.php:284
+#: Travian-Unit-Advice-Simulator/gauls.php:312 Travian-Unit-Advice-Simulator/romans.php:60 Travian-Unit-Advice-Simulator/romans.php:88
+#: Travian-Unit-Advice-Simulator/romans.php:116 Travian-Unit-Advice-Simulator/romans.php:144 Travian-Unit-Advice-Simulator/romans.php:172
+#: Travian-Unit-Advice-Simulator/romans.php:200 Travian-Unit-Advice-Simulator/romans.php:228 Travian-Unit-Advice-Simulator/romans.php:256
+#: Travian-Unit-Advice-Simulator/romans.php:284 Travian-Unit-Advice-Simulator/romans.php:312 Travian-Unit-Advice-Simulator/teutons.php:60
+#: Travian-Unit-Advice-Simulator/teutons.php:88 Travian-Unit-Advice-Simulator/teutons.php:116 Travian-Unit-Advice-Simulator/teutons.php:144
+#: Travian-Unit-Advice-Simulator/teutons.php:172 Travian-Unit-Advice-Simulator/teutons.php:200 Travian-Unit-Advice-Simulator/teutons.php:228
+#: Travian-Unit-Advice-Simulator/teutons.php:256 Travian-Unit-Advice-Simulator/teutons.php:284 Travian-Unit-Advice-Simulator/teutons.php:312
 msgid "2nd level"
 msgstr "2'nci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:61 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:89
-#: Travian-Unit-Advice-Simulator/gauls.php:117 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:145
-#: Travian-Unit-Advice-Simulator/gauls.php:173 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:201
-#: Travian-Unit-Advice-Simulator/gauls.php:229 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:257
-#: Travian-Unit-Advice-Simulator/gauls.php:285 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:313
-#: Travian-Unit-Advice-Simulator/romans.php:61 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:89
-#: Travian-Unit-Advice-Simulator/romans.php:117 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:145
-#: Travian-Unit-Advice-Simulator/romans.php:173 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:201
-#: Travian-Unit-Advice-Simulator/romans.php:229 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:257
-#: Travian-Unit-Advice-Simulator/romans.php:285 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:313
-#: Travian-Unit-Advice-Simulator/teutons.php:61 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:89
-#: Travian-Unit-Advice-Simulator/teutons.php:117 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:145
-#: Travian-Unit-Advice-Simulator/teutons.php:173 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:201
-#: Travian-Unit-Advice-Simulator/teutons.php:229 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:257
-#: Travian-Unit-Advice-Simulator/teutons.php:285 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:313
+#: Travian-Unit-Advice-Simulator/gauls.php:61 Travian-Unit-Advice-Simulator/gauls.php:89 Travian-Unit-Advice-Simulator/gauls.php:117
+#: Travian-Unit-Advice-Simulator/gauls.php:145 Travian-Unit-Advice-Simulator/gauls.php:173 Travian-Unit-Advice-Simulator/gauls.php:201
+#: Travian-Unit-Advice-Simulator/gauls.php:229 Travian-Unit-Advice-Simulator/gauls.php:257 Travian-Unit-Advice-Simulator/gauls.php:285
+#: Travian-Unit-Advice-Simulator/gauls.php:313 Travian-Unit-Advice-Simulator/romans.php:61 Travian-Unit-Advice-Simulator/romans.php:89
+#: Travian-Unit-Advice-Simulator/romans.php:117 Travian-Unit-Advice-Simulator/romans.php:145 Travian-Unit-Advice-Simulator/romans.php:173
+#: Travian-Unit-Advice-Simulator/romans.php:201 Travian-Unit-Advice-Simulator/romans.php:229 Travian-Unit-Advice-Simulator/romans.php:257
+#: Travian-Unit-Advice-Simulator/romans.php:285 Travian-Unit-Advice-Simulator/romans.php:313 Travian-Unit-Advice-Simulator/teutons.php:61
+#: Travian-Unit-Advice-Simulator/teutons.php:89 Travian-Unit-Advice-Simulator/teutons.php:117 Travian-Unit-Advice-Simulator/teutons.php:145
+#: Travian-Unit-Advice-Simulator/teutons.php:173 Travian-Unit-Advice-Simulator/teutons.php:201 Travian-Unit-Advice-Simulator/teutons.php:229
+#: Travian-Unit-Advice-Simulator/teutons.php:257 Travian-Unit-Advice-Simulator/teutons.php:285 Travian-Unit-Advice-Simulator/teutons.php:313
 msgid "3rd level"
 msgstr "3'üncü seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:62 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:90
-#: Travian-Unit-Advice-Simulator/gauls.php:118 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:146
-#: Travian-Unit-Advice-Simulator/gauls.php:174 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:202
-#: Travian-Unit-Advice-Simulator/gauls.php:230 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:258
-#: Travian-Unit-Advice-Simulator/gauls.php:286 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:314
-#: Travian-Unit-Advice-Simulator/romans.php:62 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:90
-#: Travian-Unit-Advice-Simulator/romans.php:118 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:146
-#: Travian-Unit-Advice-Simulator/romans.php:174 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:202
-#: Travian-Unit-Advice-Simulator/romans.php:230 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:258
-#: Travian-Unit-Advice-Simulator/romans.php:286 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:314
-#: Travian-Unit-Advice-Simulator/teutons.php:62 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:90
-#: Travian-Unit-Advice-Simulator/teutons.php:118 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:146
-#: Travian-Unit-Advice-Simulator/teutons.php:174 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:202
-#: Travian-Unit-Advice-Simulator/teutons.php:230 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:258
-#: Travian-Unit-Advice-Simulator/teutons.php:286 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:314
+#: Travian-Unit-Advice-Simulator/gauls.php:62 Travian-Unit-Advice-Simulator/gauls.php:90 Travian-Unit-Advice-Simulator/gauls.php:118
+#: Travian-Unit-Advice-Simulator/gauls.php:146 Travian-Unit-Advice-Simulator/gauls.php:174 Travian-Unit-Advice-Simulator/gauls.php:202
+#: Travian-Unit-Advice-Simulator/gauls.php:230 Travian-Unit-Advice-Simulator/gauls.php:258 Travian-Unit-Advice-Simulator/gauls.php:286
+#: Travian-Unit-Advice-Simulator/gauls.php:314 Travian-Unit-Advice-Simulator/romans.php:62 Travian-Unit-Advice-Simulator/romans.php:90
+#: Travian-Unit-Advice-Simulator/romans.php:118 Travian-Unit-Advice-Simulator/romans.php:146 Travian-Unit-Advice-Simulator/romans.php:174
+#: Travian-Unit-Advice-Simulator/romans.php:202 Travian-Unit-Advice-Simulator/romans.php:230 Travian-Unit-Advice-Simulator/romans.php:258
+#: Travian-Unit-Advice-Simulator/romans.php:286 Travian-Unit-Advice-Simulator/romans.php:314 Travian-Unit-Advice-Simulator/teutons.php:62
+#: Travian-Unit-Advice-Simulator/teutons.php:90 Travian-Unit-Advice-Simulator/teutons.php:118 Travian-Unit-Advice-Simulator/teutons.php:146
+#: Travian-Unit-Advice-Simulator/teutons.php:174 Travian-Unit-Advice-Simulator/teutons.php:202 Travian-Unit-Advice-Simulator/teutons.php:230
+#: Travian-Unit-Advice-Simulator/teutons.php:258 Travian-Unit-Advice-Simulator/teutons.php:286 Travian-Unit-Advice-Simulator/teutons.php:314
 msgid "4th level"
 msgstr "4'üncü seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:63 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:91
-#: Travian-Unit-Advice-Simulator/gauls.php:119 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:147
-#: Travian-Unit-Advice-Simulator/gauls.php:175 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:203
-#: Travian-Unit-Advice-Simulator/gauls.php:231 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:259
-#: Travian-Unit-Advice-Simulator/gauls.php:287 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:315
-#: Travian-Unit-Advice-Simulator/romans.php:63 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:91
-#: Travian-Unit-Advice-Simulator/romans.php:119 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:147
-#: Travian-Unit-Advice-Simulator/romans.php:175 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:203
-#: Travian-Unit-Advice-Simulator/romans.php:231 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:259
-#: Travian-Unit-Advice-Simulator/romans.php:287 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:315
-#: Travian-Unit-Advice-Simulator/teutons.php:63 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:91
-#: Travian-Unit-Advice-Simulator/teutons.php:119 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:147
-#: Travian-Unit-Advice-Simulator/teutons.php:175 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:203
-#: Travian-Unit-Advice-Simulator/teutons.php:231 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:259
-#: Travian-Unit-Advice-Simulator/teutons.php:287 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:315
+#: Travian-Unit-Advice-Simulator/gauls.php:63 Travian-Unit-Advice-Simulator/gauls.php:91 Travian-Unit-Advice-Simulator/gauls.php:119
+#: Travian-Unit-Advice-Simulator/gauls.php:147 Travian-Unit-Advice-Simulator/gauls.php:175 Travian-Unit-Advice-Simulator/gauls.php:203
+#: Travian-Unit-Advice-Simulator/gauls.php:231 Travian-Unit-Advice-Simulator/gauls.php:259 Travian-Unit-Advice-Simulator/gauls.php:287
+#: Travian-Unit-Advice-Simulator/gauls.php:315 Travian-Unit-Advice-Simulator/romans.php:63 Travian-Unit-Advice-Simulator/romans.php:91
+#: Travian-Unit-Advice-Simulator/romans.php:119 Travian-Unit-Advice-Simulator/romans.php:147 Travian-Unit-Advice-Simulator/romans.php:175
+#: Travian-Unit-Advice-Simulator/romans.php:203 Travian-Unit-Advice-Simulator/romans.php:231 Travian-Unit-Advice-Simulator/romans.php:259
+#: Travian-Unit-Advice-Simulator/romans.php:287 Travian-Unit-Advice-Simulator/romans.php:315 Travian-Unit-Advice-Simulator/teutons.php:63
+#: Travian-Unit-Advice-Simulator/teutons.php:91 Travian-Unit-Advice-Simulator/teutons.php:119 Travian-Unit-Advice-Simulator/teutons.php:147
+#: Travian-Unit-Advice-Simulator/teutons.php:175 Travian-Unit-Advice-Simulator/teutons.php:203 Travian-Unit-Advice-Simulator/teutons.php:231
+#: Travian-Unit-Advice-Simulator/teutons.php:259 Travian-Unit-Advice-Simulator/teutons.php:287 Travian-Unit-Advice-Simulator/teutons.php:315
 msgid "5th level"
 msgstr "5'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:64 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:92
-#: Travian-Unit-Advice-Simulator/gauls.php:120 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:148
-#: Travian-Unit-Advice-Simulator/gauls.php:176 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:204
-#: Travian-Unit-Advice-Simulator/gauls.php:232 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:260
-#: Travian-Unit-Advice-Simulator/gauls.php:288 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:316
-#: Travian-Unit-Advice-Simulator/romans.php:64 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:92
-#: Travian-Unit-Advice-Simulator/romans.php:120 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:148
-#: Travian-Unit-Advice-Simulator/romans.php:176 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:204
-#: Travian-Unit-Advice-Simulator/romans.php:232 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:260
-#: Travian-Unit-Advice-Simulator/romans.php:288 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:316
-#: Travian-Unit-Advice-Simulator/teutons.php:64 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:92
-#: Travian-Unit-Advice-Simulator/teutons.php:120 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:148
-#: Travian-Unit-Advice-Simulator/teutons.php:176 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:204
-#: Travian-Unit-Advice-Simulator/teutons.php:232 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:260
-#: Travian-Unit-Advice-Simulator/teutons.php:288 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:316
+#: Travian-Unit-Advice-Simulator/gauls.php:64 Travian-Unit-Advice-Simulator/gauls.php:92 Travian-Unit-Advice-Simulator/gauls.php:120
+#: Travian-Unit-Advice-Simulator/gauls.php:148 Travian-Unit-Advice-Simulator/gauls.php:176 Travian-Unit-Advice-Simulator/gauls.php:204
+#: Travian-Unit-Advice-Simulator/gauls.php:232 Travian-Unit-Advice-Simulator/gauls.php:260 Travian-Unit-Advice-Simulator/gauls.php:288
+#: Travian-Unit-Advice-Simulator/gauls.php:316 Travian-Unit-Advice-Simulator/romans.php:64 Travian-Unit-Advice-Simulator/romans.php:92
+#: Travian-Unit-Advice-Simulator/romans.php:120 Travian-Unit-Advice-Simulator/romans.php:148 Travian-Unit-Advice-Simulator/romans.php:176
+#: Travian-Unit-Advice-Simulator/romans.php:204 Travian-Unit-Advice-Simulator/romans.php:232 Travian-Unit-Advice-Simulator/romans.php:260
+#: Travian-Unit-Advice-Simulator/romans.php:288 Travian-Unit-Advice-Simulator/romans.php:316 Travian-Unit-Advice-Simulator/teutons.php:64
+#: Travian-Unit-Advice-Simulator/teutons.php:92 Travian-Unit-Advice-Simulator/teutons.php:120 Travian-Unit-Advice-Simulator/teutons.php:148
+#: Travian-Unit-Advice-Simulator/teutons.php:176 Travian-Unit-Advice-Simulator/teutons.php:204 Travian-Unit-Advice-Simulator/teutons.php:232
+#: Travian-Unit-Advice-Simulator/teutons.php:260 Travian-Unit-Advice-Simulator/teutons.php:288 Travian-Unit-Advice-Simulator/teutons.php:316
 msgid "6th level"
 msgstr "6'ncı seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:65 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:93
-#: Travian-Unit-Advice-Simulator/gauls.php:121 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:149
-#: Travian-Unit-Advice-Simulator/gauls.php:177 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:205
-#: Travian-Unit-Advice-Simulator/gauls.php:233 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:261
-#: Travian-Unit-Advice-Simulator/gauls.php:289 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:317
-#: Travian-Unit-Advice-Simulator/romans.php:65 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:93
-#: Travian-Unit-Advice-Simulator/romans.php:121 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:149
-#: Travian-Unit-Advice-Simulator/romans.php:177 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:205
-#: Travian-Unit-Advice-Simulator/romans.php:233 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:261
-#: Travian-Unit-Advice-Simulator/romans.php:289 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:317
-#: Travian-Unit-Advice-Simulator/teutons.php:65 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:93
-#: Travian-Unit-Advice-Simulator/teutons.php:121 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:149
-#: Travian-Unit-Advice-Simulator/teutons.php:177 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:205
-#: Travian-Unit-Advice-Simulator/teutons.php:233 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:261
-#: Travian-Unit-Advice-Simulator/teutons.php:289 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:317
+#: Travian-Unit-Advice-Simulator/gauls.php:65 Travian-Unit-Advice-Simulator/gauls.php:93 Travian-Unit-Advice-Simulator/gauls.php:121
+#: Travian-Unit-Advice-Simulator/gauls.php:149 Travian-Unit-Advice-Simulator/gauls.php:177 Travian-Unit-Advice-Simulator/gauls.php:205
+#: Travian-Unit-Advice-Simulator/gauls.php:233 Travian-Unit-Advice-Simulator/gauls.php:261 Travian-Unit-Advice-Simulator/gauls.php:289
+#: Travian-Unit-Advice-Simulator/gauls.php:317 Travian-Unit-Advice-Simulator/romans.php:65 Travian-Unit-Advice-Simulator/romans.php:93
+#: Travian-Unit-Advice-Simulator/romans.php:121 Travian-Unit-Advice-Simulator/romans.php:149 Travian-Unit-Advice-Simulator/romans.php:177
+#: Travian-Unit-Advice-Simulator/romans.php:205 Travian-Unit-Advice-Simulator/romans.php:233 Travian-Unit-Advice-Simulator/romans.php:261
+#: Travian-Unit-Advice-Simulator/romans.php:289 Travian-Unit-Advice-Simulator/romans.php:317 Travian-Unit-Advice-Simulator/teutons.php:65
+#: Travian-Unit-Advice-Simulator/teutons.php:93 Travian-Unit-Advice-Simulator/teutons.php:121 Travian-Unit-Advice-Simulator/teutons.php:149
+#: Travian-Unit-Advice-Simulator/teutons.php:177 Travian-Unit-Advice-Simulator/teutons.php:205 Travian-Unit-Advice-Simulator/teutons.php:233
+#: Travian-Unit-Advice-Simulator/teutons.php:261 Travian-Unit-Advice-Simulator/teutons.php:289 Travian-Unit-Advice-Simulator/teutons.php:317
 msgid "7th level"
 msgstr "7'nci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:66 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:94
-#: Travian-Unit-Advice-Simulator/gauls.php:122 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:150
-#: Travian-Unit-Advice-Simulator/gauls.php:178 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:206
-#: Travian-Unit-Advice-Simulator/gauls.php:234 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:262
-#: Travian-Unit-Advice-Simulator/gauls.php:290 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:318
-#: Travian-Unit-Advice-Simulator/romans.php:66 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:94
-#: Travian-Unit-Advice-Simulator/romans.php:122 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:150
-#: Travian-Unit-Advice-Simulator/romans.php:178 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:206
-#: Travian-Unit-Advice-Simulator/romans.php:234 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:262
-#: Travian-Unit-Advice-Simulator/romans.php:290 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:318
-#: Travian-Unit-Advice-Simulator/teutons.php:66 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:94
-#: Travian-Unit-Advice-Simulator/teutons.php:122 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:150
-#: Travian-Unit-Advice-Simulator/teutons.php:178 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:206
-#: Travian-Unit-Advice-Simulator/teutons.php:234 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:262
-#: Travian-Unit-Advice-Simulator/teutons.php:290 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:318
+#: Travian-Unit-Advice-Simulator/gauls.php:66 Travian-Unit-Advice-Simulator/gauls.php:94 Travian-Unit-Advice-Simulator/gauls.php:122
+#: Travian-Unit-Advice-Simulator/gauls.php:150 Travian-Unit-Advice-Simulator/gauls.php:178 Travian-Unit-Advice-Simulator/gauls.php:206
+#: Travian-Unit-Advice-Simulator/gauls.php:234 Travian-Unit-Advice-Simulator/gauls.php:262 Travian-Unit-Advice-Simulator/gauls.php:290
+#: Travian-Unit-Advice-Simulator/gauls.php:318 Travian-Unit-Advice-Simulator/romans.php:66 Travian-Unit-Advice-Simulator/romans.php:94
+#: Travian-Unit-Advice-Simulator/romans.php:122 Travian-Unit-Advice-Simulator/romans.php:150 Travian-Unit-Advice-Simulator/romans.php:178
+#: Travian-Unit-Advice-Simulator/romans.php:206 Travian-Unit-Advice-Simulator/romans.php:234 Travian-Unit-Advice-Simulator/romans.php:262
+#: Travian-Unit-Advice-Simulator/romans.php:290 Travian-Unit-Advice-Simulator/romans.php:318 Travian-Unit-Advice-Simulator/teutons.php:66
+#: Travian-Unit-Advice-Simulator/teutons.php:94 Travian-Unit-Advice-Simulator/teutons.php:122 Travian-Unit-Advice-Simulator/teutons.php:150
+#: Travian-Unit-Advice-Simulator/teutons.php:178 Travian-Unit-Advice-Simulator/teutons.php:206 Travian-Unit-Advice-Simulator/teutons.php:234
+#: Travian-Unit-Advice-Simulator/teutons.php:262 Travian-Unit-Advice-Simulator/teutons.php:290 Travian-Unit-Advice-Simulator/teutons.php:318
 msgid "8th level"
 msgstr "8'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:67 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:95
-#: Travian-Unit-Advice-Simulator/gauls.php:123 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:151
-#: Travian-Unit-Advice-Simulator/gauls.php:179 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:207
-#: Travian-Unit-Advice-Simulator/gauls.php:235 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:263
-#: Travian-Unit-Advice-Simulator/gauls.php:291 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:319
-#: Travian-Unit-Advice-Simulator/romans.php:67 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:95
-#: Travian-Unit-Advice-Simulator/romans.php:123 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:151
-#: Travian-Unit-Advice-Simulator/romans.php:179 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:207
-#: Travian-Unit-Advice-Simulator/romans.php:235 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:263
-#: Travian-Unit-Advice-Simulator/romans.php:291 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:319
-#: Travian-Unit-Advice-Simulator/teutons.php:67 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:95
-#: Travian-Unit-Advice-Simulator/teutons.php:123 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:151
-#: Travian-Unit-Advice-Simulator/teutons.php:179 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:207
-#: Travian-Unit-Advice-Simulator/teutons.php:235 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:263
-#: Travian-Unit-Advice-Simulator/teutons.php:291 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:319
+#: Travian-Unit-Advice-Simulator/gauls.php:67 Travian-Unit-Advice-Simulator/gauls.php:95 Travian-Unit-Advice-Simulator/gauls.php:123
+#: Travian-Unit-Advice-Simulator/gauls.php:151 Travian-Unit-Advice-Simulator/gauls.php:179 Travian-Unit-Advice-Simulator/gauls.php:207
+#: Travian-Unit-Advice-Simulator/gauls.php:235 Travian-Unit-Advice-Simulator/gauls.php:263 Travian-Unit-Advice-Simulator/gauls.php:291
+#: Travian-Unit-Advice-Simulator/gauls.php:319 Travian-Unit-Advice-Simulator/romans.php:67 Travian-Unit-Advice-Simulator/romans.php:95
+#: Travian-Unit-Advice-Simulator/romans.php:123 Travian-Unit-Advice-Simulator/romans.php:151 Travian-Unit-Advice-Simulator/romans.php:179
+#: Travian-Unit-Advice-Simulator/romans.php:207 Travian-Unit-Advice-Simulator/romans.php:235 Travian-Unit-Advice-Simulator/romans.php:263
+#: Travian-Unit-Advice-Simulator/romans.php:291 Travian-Unit-Advice-Simulator/romans.php:319 Travian-Unit-Advice-Simulator/teutons.php:67
+#: Travian-Unit-Advice-Simulator/teutons.php:95 Travian-Unit-Advice-Simulator/teutons.php:123 Travian-Unit-Advice-Simulator/teutons.php:151
+#: Travian-Unit-Advice-Simulator/teutons.php:179 Travian-Unit-Advice-Simulator/teutons.php:207 Travian-Unit-Advice-Simulator/teutons.php:235
+#: Travian-Unit-Advice-Simulator/teutons.php:263 Travian-Unit-Advice-Simulator/teutons.php:291 Travian-Unit-Advice-Simulator/teutons.php:319
 msgid "9th level"
 msgstr "9'uncu seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:68 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:96
-#: Travian-Unit-Advice-Simulator/gauls.php:124 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:152
-#: Travian-Unit-Advice-Simulator/gauls.php:180 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:208
-#: Travian-Unit-Advice-Simulator/gauls.php:236 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:264
-#: Travian-Unit-Advice-Simulator/gauls.php:292 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:320
-#: Travian-Unit-Advice-Simulator/romans.php:68 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:96
-#: Travian-Unit-Advice-Simulator/romans.php:124 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:152
-#: Travian-Unit-Advice-Simulator/romans.php:180 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:208
-#: Travian-Unit-Advice-Simulator/romans.php:236 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:264
-#: Travian-Unit-Advice-Simulator/romans.php:292 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:320
-#: Travian-Unit-Advice-Simulator/teutons.php:68 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:96
-#: Travian-Unit-Advice-Simulator/teutons.php:124 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:152
-#: Travian-Unit-Advice-Simulator/teutons.php:180 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:208
-#: Travian-Unit-Advice-Simulator/teutons.php:236 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:264
-#: Travian-Unit-Advice-Simulator/teutons.php:292 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:320
+#: Travian-Unit-Advice-Simulator/gauls.php:68 Travian-Unit-Advice-Simulator/gauls.php:96 Travian-Unit-Advice-Simulator/gauls.php:124
+#: Travian-Unit-Advice-Simulator/gauls.php:152 Travian-Unit-Advice-Simulator/gauls.php:180 Travian-Unit-Advice-Simulator/gauls.php:208
+#: Travian-Unit-Advice-Simulator/gauls.php:236 Travian-Unit-Advice-Simulator/gauls.php:264 Travian-Unit-Advice-Simulator/gauls.php:292
+#: Travian-Unit-Advice-Simulator/gauls.php:320 Travian-Unit-Advice-Simulator/romans.php:68 Travian-Unit-Advice-Simulator/romans.php:96
+#: Travian-Unit-Advice-Simulator/romans.php:124 Travian-Unit-Advice-Simulator/romans.php:152 Travian-Unit-Advice-Simulator/romans.php:180
+#: Travian-Unit-Advice-Simulator/romans.php:208 Travian-Unit-Advice-Simulator/romans.php:236 Travian-Unit-Advice-Simulator/romans.php:264
+#: Travian-Unit-Advice-Simulator/romans.php:292 Travian-Unit-Advice-Simulator/romans.php:320 Travian-Unit-Advice-Simulator/teutons.php:68
+#: Travian-Unit-Advice-Simulator/teutons.php:96 Travian-Unit-Advice-Simulator/teutons.php:124 Travian-Unit-Advice-Simulator/teutons.php:152
+#: Travian-Unit-Advice-Simulator/teutons.php:180 Travian-Unit-Advice-Simulator/teutons.php:208 Travian-Unit-Advice-Simulator/teutons.php:236
+#: Travian-Unit-Advice-Simulator/teutons.php:264 Travian-Unit-Advice-Simulator/teutons.php:292 Travian-Unit-Advice-Simulator/teutons.php:320
 msgid "10th level"
 msgstr "10'uncu seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:69 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:97
-#: Travian-Unit-Advice-Simulator/gauls.php:125 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:153
-#: Travian-Unit-Advice-Simulator/gauls.php:181 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:209
-#: Travian-Unit-Advice-Simulator/gauls.php:237 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:265
-#: Travian-Unit-Advice-Simulator/gauls.php:293 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:321
-#: Travian-Unit-Advice-Simulator/romans.php:69 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:97
-#: Travian-Unit-Advice-Simulator/romans.php:125 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:153
-#: Travian-Unit-Advice-Simulator/romans.php:181 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:209
-#: Travian-Unit-Advice-Simulator/romans.php:237 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:265
-#: Travian-Unit-Advice-Simulator/romans.php:293 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:321
-#: Travian-Unit-Advice-Simulator/teutons.php:69 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:97
-#: Travian-Unit-Advice-Simulator/teutons.php:125 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:153
-#: Travian-Unit-Advice-Simulator/teutons.php:181 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:209
-#: Travian-Unit-Advice-Simulator/teutons.php:237 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:265
-#: Travian-Unit-Advice-Simulator/teutons.php:293 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:321
+#: Travian-Unit-Advice-Simulator/gauls.php:69 Travian-Unit-Advice-Simulator/gauls.php:97 Travian-Unit-Advice-Simulator/gauls.php:125
+#: Travian-Unit-Advice-Simulator/gauls.php:153 Travian-Unit-Advice-Simulator/gauls.php:181 Travian-Unit-Advice-Simulator/gauls.php:209
+#: Travian-Unit-Advice-Simulator/gauls.php:237 Travian-Unit-Advice-Simulator/gauls.php:265 Travian-Unit-Advice-Simulator/gauls.php:293
+#: Travian-Unit-Advice-Simulator/gauls.php:321 Travian-Unit-Advice-Simulator/romans.php:69 Travian-Unit-Advice-Simulator/romans.php:97
+#: Travian-Unit-Advice-Simulator/romans.php:125 Travian-Unit-Advice-Simulator/romans.php:153 Travian-Unit-Advice-Simulator/romans.php:181
+#: Travian-Unit-Advice-Simulator/romans.php:209 Travian-Unit-Advice-Simulator/romans.php:237 Travian-Unit-Advice-Simulator/romans.php:265
+#: Travian-Unit-Advice-Simulator/romans.php:293 Travian-Unit-Advice-Simulator/romans.php:321 Travian-Unit-Advice-Simulator/teutons.php:69
+#: Travian-Unit-Advice-Simulator/teutons.php:97 Travian-Unit-Advice-Simulator/teutons.php:125 Travian-Unit-Advice-Simulator/teutons.php:153
+#: Travian-Unit-Advice-Simulator/teutons.php:181 Travian-Unit-Advice-Simulator/teutons.php:209 Travian-Unit-Advice-Simulator/teutons.php:237
+#: Travian-Unit-Advice-Simulator/teutons.php:265 Travian-Unit-Advice-Simulator/teutons.php:293 Travian-Unit-Advice-Simulator/teutons.php:321
 msgid "11th level"
 msgstr "11'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:70 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:98
-#: Travian-Unit-Advice-Simulator/gauls.php:126 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:154
-#: Travian-Unit-Advice-Simulator/gauls.php:182 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:210
-#: Travian-Unit-Advice-Simulator/gauls.php:238 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:266
-#: Travian-Unit-Advice-Simulator/gauls.php:294 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:322
-#: Travian-Unit-Advice-Simulator/romans.php:70 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:98
-#: Travian-Unit-Advice-Simulator/romans.php:126 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:154
-#: Travian-Unit-Advice-Simulator/romans.php:182 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:210
-#: Travian-Unit-Advice-Simulator/romans.php:238 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:266
-#: Travian-Unit-Advice-Simulator/romans.php:294 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:322
-#: Travian-Unit-Advice-Simulator/teutons.php:70 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:98
-#: Travian-Unit-Advice-Simulator/teutons.php:126 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:154
-#: Travian-Unit-Advice-Simulator/teutons.php:182 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:210
-#: Travian-Unit-Advice-Simulator/teutons.php:238 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:266
-#: Travian-Unit-Advice-Simulator/teutons.php:294 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:322
+#: Travian-Unit-Advice-Simulator/gauls.php:70 Travian-Unit-Advice-Simulator/gauls.php:98 Travian-Unit-Advice-Simulator/gauls.php:126
+#: Travian-Unit-Advice-Simulator/gauls.php:154 Travian-Unit-Advice-Simulator/gauls.php:182 Travian-Unit-Advice-Simulator/gauls.php:210
+#: Travian-Unit-Advice-Simulator/gauls.php:238 Travian-Unit-Advice-Simulator/gauls.php:266 Travian-Unit-Advice-Simulator/gauls.php:294
+#: Travian-Unit-Advice-Simulator/gauls.php:322 Travian-Unit-Advice-Simulator/romans.php:70 Travian-Unit-Advice-Simulator/romans.php:98
+#: Travian-Unit-Advice-Simulator/romans.php:126 Travian-Unit-Advice-Simulator/romans.php:154 Travian-Unit-Advice-Simulator/romans.php:182
+#: Travian-Unit-Advice-Simulator/romans.php:210 Travian-Unit-Advice-Simulator/romans.php:238 Travian-Unit-Advice-Simulator/romans.php:266
+#: Travian-Unit-Advice-Simulator/romans.php:294 Travian-Unit-Advice-Simulator/romans.php:322 Travian-Unit-Advice-Simulator/teutons.php:70
+#: Travian-Unit-Advice-Simulator/teutons.php:98 Travian-Unit-Advice-Simulator/teutons.php:126 Travian-Unit-Advice-Simulator/teutons.php:154
+#: Travian-Unit-Advice-Simulator/teutons.php:182 Travian-Unit-Advice-Simulator/teutons.php:210 Travian-Unit-Advice-Simulator/teutons.php:238
+#: Travian-Unit-Advice-Simulator/teutons.php:266 Travian-Unit-Advice-Simulator/teutons.php:294 Travian-Unit-Advice-Simulator/teutons.php:322
 msgid "12th level"
 msgstr "12'nci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:71 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:99
-#: Travian-Unit-Advice-Simulator/gauls.php:127 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:155
-#: Travian-Unit-Advice-Simulator/gauls.php:183 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:211
-#: Travian-Unit-Advice-Simulator/gauls.php:239 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:267
-#: Travian-Unit-Advice-Simulator/gauls.php:295 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:323
-#: Travian-Unit-Advice-Simulator/romans.php:71 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:99
-#: Travian-Unit-Advice-Simulator/romans.php:127 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:155
-#: Travian-Unit-Advice-Simulator/romans.php:183 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:211
-#: Travian-Unit-Advice-Simulator/romans.php:239 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:267
-#: Travian-Unit-Advice-Simulator/romans.php:295 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:323
-#: Travian-Unit-Advice-Simulator/teutons.php:71 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:99
-#: Travian-Unit-Advice-Simulator/teutons.php:127 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:155
-#: Travian-Unit-Advice-Simulator/teutons.php:183 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:211
-#: Travian-Unit-Advice-Simulator/teutons.php:239 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:267
-#: Travian-Unit-Advice-Simulator/teutons.php:295 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:323
+#: Travian-Unit-Advice-Simulator/gauls.php:71 Travian-Unit-Advice-Simulator/gauls.php:99 Travian-Unit-Advice-Simulator/gauls.php:127
+#: Travian-Unit-Advice-Simulator/gauls.php:155 Travian-Unit-Advice-Simulator/gauls.php:183 Travian-Unit-Advice-Simulator/gauls.php:211
+#: Travian-Unit-Advice-Simulator/gauls.php:239 Travian-Unit-Advice-Simulator/gauls.php:267 Travian-Unit-Advice-Simulator/gauls.php:295
+#: Travian-Unit-Advice-Simulator/gauls.php:323 Travian-Unit-Advice-Simulator/romans.php:71 Travian-Unit-Advice-Simulator/romans.php:99
+#: Travian-Unit-Advice-Simulator/romans.php:127 Travian-Unit-Advice-Simulator/romans.php:155 Travian-Unit-Advice-Simulator/romans.php:183
+#: Travian-Unit-Advice-Simulator/romans.php:211 Travian-Unit-Advice-Simulator/romans.php:239 Travian-Unit-Advice-Simulator/romans.php:267
+#: Travian-Unit-Advice-Simulator/romans.php:295 Travian-Unit-Advice-Simulator/romans.php:323 Travian-Unit-Advice-Simulator/teutons.php:71
+#: Travian-Unit-Advice-Simulator/teutons.php:99 Travian-Unit-Advice-Simulator/teutons.php:127 Travian-Unit-Advice-Simulator/teutons.php:155
+#: Travian-Unit-Advice-Simulator/teutons.php:183 Travian-Unit-Advice-Simulator/teutons.php:211 Travian-Unit-Advice-Simulator/teutons.php:239
+#: Travian-Unit-Advice-Simulator/teutons.php:267 Travian-Unit-Advice-Simulator/teutons.php:295 Travian-Unit-Advice-Simulator/teutons.php:323
 msgid "13th level"
 msgstr "13'üncü seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:72 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:100
-#: Travian-Unit-Advice-Simulator/gauls.php:128 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:156
-#: Travian-Unit-Advice-Simulator/gauls.php:184 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:212
-#: Travian-Unit-Advice-Simulator/gauls.php:240 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:268
-#: Travian-Unit-Advice-Simulator/gauls.php:296 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:324
-#: Travian-Unit-Advice-Simulator/romans.php:72 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:100
-#: Travian-Unit-Advice-Simulator/romans.php:128 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:156
-#: Travian-Unit-Advice-Simulator/romans.php:184 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:212
-#: Travian-Unit-Advice-Simulator/romans.php:240 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:268
-#: Travian-Unit-Advice-Simulator/romans.php:296 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:324
-#: Travian-Unit-Advice-Simulator/teutons.php:72 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:100
-#: Travian-Unit-Advice-Simulator/teutons.php:128 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:156
-#: Travian-Unit-Advice-Simulator/teutons.php:184 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:212
-#: Travian-Unit-Advice-Simulator/teutons.php:240 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:268
-#: Travian-Unit-Advice-Simulator/teutons.php:296 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:324
+#: Travian-Unit-Advice-Simulator/gauls.php:72 Travian-Unit-Advice-Simulator/gauls.php:100 Travian-Unit-Advice-Simulator/gauls.php:128
+#: Travian-Unit-Advice-Simulator/gauls.php:156 Travian-Unit-Advice-Simulator/gauls.php:184 Travian-Unit-Advice-Simulator/gauls.php:212
+#: Travian-Unit-Advice-Simulator/gauls.php:240 Travian-Unit-Advice-Simulator/gauls.php:268 Travian-Unit-Advice-Simulator/gauls.php:296
+#: Travian-Unit-Advice-Simulator/gauls.php:324 Travian-Unit-Advice-Simulator/romans.php:72 Travian-Unit-Advice-Simulator/romans.php:100
+#: Travian-Unit-Advice-Simulator/romans.php:128 Travian-Unit-Advice-Simulator/romans.php:156 Travian-Unit-Advice-Simulator/romans.php:184
+#: Travian-Unit-Advice-Simulator/romans.php:212 Travian-Unit-Advice-Simulator/romans.php:240 Travian-Unit-Advice-Simulator/romans.php:268
+#: Travian-Unit-Advice-Simulator/romans.php:296 Travian-Unit-Advice-Simulator/romans.php:324 Travian-Unit-Advice-Simulator/teutons.php:72
+#: Travian-Unit-Advice-Simulator/teutons.php:100 Travian-Unit-Advice-Simulator/teutons.php:128 Travian-Unit-Advice-Simulator/teutons.php:156
+#: Travian-Unit-Advice-Simulator/teutons.php:184 Travian-Unit-Advice-Simulator/teutons.php:212 Travian-Unit-Advice-Simulator/teutons.php:240
+#: Travian-Unit-Advice-Simulator/teutons.php:268 Travian-Unit-Advice-Simulator/teutons.php:296 Travian-Unit-Advice-Simulator/teutons.php:324
 msgid "14th level"
 msgstr "14'üncü seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:73 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:101
-#: Travian-Unit-Advice-Simulator/gauls.php:129 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:157
-#: Travian-Unit-Advice-Simulator/gauls.php:185 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:213
-#: Travian-Unit-Advice-Simulator/gauls.php:241 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:269
-#: Travian-Unit-Advice-Simulator/gauls.php:297 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:325
-#: Travian-Unit-Advice-Simulator/romans.php:73 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:101
-#: Travian-Unit-Advice-Simulator/romans.php:129 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:157
-#: Travian-Unit-Advice-Simulator/romans.php:185 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:213
-#: Travian-Unit-Advice-Simulator/romans.php:241 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:269
-#: Travian-Unit-Advice-Simulator/romans.php:297 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:325
-#: Travian-Unit-Advice-Simulator/teutons.php:73 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:101
-#: Travian-Unit-Advice-Simulator/teutons.php:129 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:157
-#: Travian-Unit-Advice-Simulator/teutons.php:185 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:213
-#: Travian-Unit-Advice-Simulator/teutons.php:241 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:269
-#: Travian-Unit-Advice-Simulator/teutons.php:297 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:325
+#: Travian-Unit-Advice-Simulator/gauls.php:73 Travian-Unit-Advice-Simulator/gauls.php:101 Travian-Unit-Advice-Simulator/gauls.php:129
+#: Travian-Unit-Advice-Simulator/gauls.php:157 Travian-Unit-Advice-Simulator/gauls.php:185 Travian-Unit-Advice-Simulator/gauls.php:213
+#: Travian-Unit-Advice-Simulator/gauls.php:241 Travian-Unit-Advice-Simulator/gauls.php:269 Travian-Unit-Advice-Simulator/gauls.php:297
+#: Travian-Unit-Advice-Simulator/gauls.php:325 Travian-Unit-Advice-Simulator/romans.php:73 Travian-Unit-Advice-Simulator/romans.php:101
+#: Travian-Unit-Advice-Simulator/romans.php:129 Travian-Unit-Advice-Simulator/romans.php:157 Travian-Unit-Advice-Simulator/romans.php:185
+#: Travian-Unit-Advice-Simulator/romans.php:213 Travian-Unit-Advice-Simulator/romans.php:241 Travian-Unit-Advice-Simulator/romans.php:269
+#: Travian-Unit-Advice-Simulator/romans.php:297 Travian-Unit-Advice-Simulator/romans.php:325 Travian-Unit-Advice-Simulator/teutons.php:73
+#: Travian-Unit-Advice-Simulator/teutons.php:101 Travian-Unit-Advice-Simulator/teutons.php:129 Travian-Unit-Advice-Simulator/teutons.php:157
+#: Travian-Unit-Advice-Simulator/teutons.php:185 Travian-Unit-Advice-Simulator/teutons.php:213 Travian-Unit-Advice-Simulator/teutons.php:241
+#: Travian-Unit-Advice-Simulator/teutons.php:269 Travian-Unit-Advice-Simulator/teutons.php:297 Travian-Unit-Advice-Simulator/teutons.php:325
 msgid "15th level"
 msgstr "15'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:74 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:102
-#: Travian-Unit-Advice-Simulator/gauls.php:130 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:158
-#: Travian-Unit-Advice-Simulator/gauls.php:186 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:214
-#: Travian-Unit-Advice-Simulator/gauls.php:242 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:270
-#: Travian-Unit-Advice-Simulator/gauls.php:298 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:326
-#: Travian-Unit-Advice-Simulator/romans.php:74 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:102
-#: Travian-Unit-Advice-Simulator/romans.php:130 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:158
-#: Travian-Unit-Advice-Simulator/romans.php:186 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:214
-#: Travian-Unit-Advice-Simulator/romans.php:242 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:270
-#: Travian-Unit-Advice-Simulator/romans.php:298 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:326
-#: Travian-Unit-Advice-Simulator/teutons.php:74 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:102
-#: Travian-Unit-Advice-Simulator/teutons.php:130 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:158
-#: Travian-Unit-Advice-Simulator/teutons.php:186 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:214
-#: Travian-Unit-Advice-Simulator/teutons.php:242 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:270
-#: Travian-Unit-Advice-Simulator/teutons.php:298 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:326
+#: Travian-Unit-Advice-Simulator/gauls.php:74 Travian-Unit-Advice-Simulator/gauls.php:102 Travian-Unit-Advice-Simulator/gauls.php:130
+#: Travian-Unit-Advice-Simulator/gauls.php:158 Travian-Unit-Advice-Simulator/gauls.php:186 Travian-Unit-Advice-Simulator/gauls.php:214
+#: Travian-Unit-Advice-Simulator/gauls.php:242 Travian-Unit-Advice-Simulator/gauls.php:270 Travian-Unit-Advice-Simulator/gauls.php:298
+#: Travian-Unit-Advice-Simulator/gauls.php:326 Travian-Unit-Advice-Simulator/romans.php:74 Travian-Unit-Advice-Simulator/romans.php:102
+#: Travian-Unit-Advice-Simulator/romans.php:130 Travian-Unit-Advice-Simulator/romans.php:158 Travian-Unit-Advice-Simulator/romans.php:186
+#: Travian-Unit-Advice-Simulator/romans.php:214 Travian-Unit-Advice-Simulator/romans.php:242 Travian-Unit-Advice-Simulator/romans.php:270
+#: Travian-Unit-Advice-Simulator/romans.php:298 Travian-Unit-Advice-Simulator/romans.php:326 Travian-Unit-Advice-Simulator/teutons.php:74
+#: Travian-Unit-Advice-Simulator/teutons.php:102 Travian-Unit-Advice-Simulator/teutons.php:130 Travian-Unit-Advice-Simulator/teutons.php:158
+#: Travian-Unit-Advice-Simulator/teutons.php:186 Travian-Unit-Advice-Simulator/teutons.php:214 Travian-Unit-Advice-Simulator/teutons.php:242
+#: Travian-Unit-Advice-Simulator/teutons.php:270 Travian-Unit-Advice-Simulator/teutons.php:298 Travian-Unit-Advice-Simulator/teutons.php:326
 msgid "16th level"
 msgstr "16'ncı seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:75 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:103
-#: Travian-Unit-Advice-Simulator/gauls.php:131 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:159
-#: Travian-Unit-Advice-Simulator/gauls.php:187 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:215
-#: Travian-Unit-Advice-Simulator/gauls.php:243 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:271
-#: Travian-Unit-Advice-Simulator/gauls.php:299 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:327
-#: Travian-Unit-Advice-Simulator/romans.php:75 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:103
-#: Travian-Unit-Advice-Simulator/romans.php:131 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:159
-#: Travian-Unit-Advice-Simulator/romans.php:187 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:215
-#: Travian-Unit-Advice-Simulator/romans.php:243 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:271
-#: Travian-Unit-Advice-Simulator/romans.php:299 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:327
-#: Travian-Unit-Advice-Simulator/teutons.php:75 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:103
-#: Travian-Unit-Advice-Simulator/teutons.php:131 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:159
-#: Travian-Unit-Advice-Simulator/teutons.php:187 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:215
-#: Travian-Unit-Advice-Simulator/teutons.php:243 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:271
-#: Travian-Unit-Advice-Simulator/teutons.php:299 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:327
+#: Travian-Unit-Advice-Simulator/gauls.php:75 Travian-Unit-Advice-Simulator/gauls.php:103 Travian-Unit-Advice-Simulator/gauls.php:131
+#: Travian-Unit-Advice-Simulator/gauls.php:159 Travian-Unit-Advice-Simulator/gauls.php:187 Travian-Unit-Advice-Simulator/gauls.php:215
+#: Travian-Unit-Advice-Simulator/gauls.php:243 Travian-Unit-Advice-Simulator/gauls.php:271 Travian-Unit-Advice-Simulator/gauls.php:299
+#: Travian-Unit-Advice-Simulator/gauls.php:327 Travian-Unit-Advice-Simulator/romans.php:75 Travian-Unit-Advice-Simulator/romans.php:103
+#: Travian-Unit-Advice-Simulator/romans.php:131 Travian-Unit-Advice-Simulator/romans.php:159 Travian-Unit-Advice-Simulator/romans.php:187
+#: Travian-Unit-Advice-Simulator/romans.php:215 Travian-Unit-Advice-Simulator/romans.php:243 Travian-Unit-Advice-Simulator/romans.php:271
+#: Travian-Unit-Advice-Simulator/romans.php:299 Travian-Unit-Advice-Simulator/romans.php:327 Travian-Unit-Advice-Simulator/teutons.php:75
+#: Travian-Unit-Advice-Simulator/teutons.php:103 Travian-Unit-Advice-Simulator/teutons.php:131 Travian-Unit-Advice-Simulator/teutons.php:159
+#: Travian-Unit-Advice-Simulator/teutons.php:187 Travian-Unit-Advice-Simulator/teutons.php:215 Travian-Unit-Advice-Simulator/teutons.php:243
+#: Travian-Unit-Advice-Simulator/teutons.php:271 Travian-Unit-Advice-Simulator/teutons.php:299 Travian-Unit-Advice-Simulator/teutons.php:327
 msgid "17th level"
 msgstr "17'nci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:76 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:104
-#: Travian-Unit-Advice-Simulator/gauls.php:132 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:160
-#: Travian-Unit-Advice-Simulator/gauls.php:188 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:216
-#: Travian-Unit-Advice-Simulator/gauls.php:244 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:272
-#: Travian-Unit-Advice-Simulator/gauls.php:300 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:328
-#: Travian-Unit-Advice-Simulator/romans.php:76 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:104
-#: Travian-Unit-Advice-Simulator/romans.php:132 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:160
-#: Travian-Unit-Advice-Simulator/romans.php:188 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:216
-#: Travian-Unit-Advice-Simulator/romans.php:244 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:272
-#: Travian-Unit-Advice-Simulator/romans.php:300 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:328
-#: Travian-Unit-Advice-Simulator/teutons.php:76 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:104
-#: Travian-Unit-Advice-Simulator/teutons.php:132 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:160
-#: Travian-Unit-Advice-Simulator/teutons.php:188 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:216
-#: Travian-Unit-Advice-Simulator/teutons.php:244 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:272
-#: Travian-Unit-Advice-Simulator/teutons.php:300 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:328
+#: Travian-Unit-Advice-Simulator/gauls.php:76 Travian-Unit-Advice-Simulator/gauls.php:104 Travian-Unit-Advice-Simulator/gauls.php:132
+#: Travian-Unit-Advice-Simulator/gauls.php:160 Travian-Unit-Advice-Simulator/gauls.php:188 Travian-Unit-Advice-Simulator/gauls.php:216
+#: Travian-Unit-Advice-Simulator/gauls.php:244 Travian-Unit-Advice-Simulator/gauls.php:272 Travian-Unit-Advice-Simulator/gauls.php:300
+#: Travian-Unit-Advice-Simulator/gauls.php:328 Travian-Unit-Advice-Simulator/romans.php:76 Travian-Unit-Advice-Simulator/romans.php:104
+#: Travian-Unit-Advice-Simulator/romans.php:132 Travian-Unit-Advice-Simulator/romans.php:160 Travian-Unit-Advice-Simulator/romans.php:188
+#: Travian-Unit-Advice-Simulator/romans.php:216 Travian-Unit-Advice-Simulator/romans.php:244 Travian-Unit-Advice-Simulator/romans.php:272
+#: Travian-Unit-Advice-Simulator/romans.php:300 Travian-Unit-Advice-Simulator/romans.php:328 Travian-Unit-Advice-Simulator/teutons.php:76
+#: Travian-Unit-Advice-Simulator/teutons.php:104 Travian-Unit-Advice-Simulator/teutons.php:132 Travian-Unit-Advice-Simulator/teutons.php:160
+#: Travian-Unit-Advice-Simulator/teutons.php:188 Travian-Unit-Advice-Simulator/teutons.php:216 Travian-Unit-Advice-Simulator/teutons.php:244
+#: Travian-Unit-Advice-Simulator/teutons.php:272 Travian-Unit-Advice-Simulator/teutons.php:300 Travian-Unit-Advice-Simulator/teutons.php:328
 msgid "18th level"
 msgstr "18'inci seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:77 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:105
-#: Travian-Unit-Advice-Simulator/gauls.php:133 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:161
-#: Travian-Unit-Advice-Simulator/gauls.php:189 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:217
-#: Travian-Unit-Advice-Simulator/gauls.php:245 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:273
-#: Travian-Unit-Advice-Simulator/gauls.php:301 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:329
-#: Travian-Unit-Advice-Simulator/romans.php:77 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:105
-#: Travian-Unit-Advice-Simulator/romans.php:133 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:161
-#: Travian-Unit-Advice-Simulator/romans.php:189 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:217
-#: Travian-Unit-Advice-Simulator/romans.php:245 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:273
-#: Travian-Unit-Advice-Simulator/romans.php:301 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:329
-#: Travian-Unit-Advice-Simulator/teutons.php:77 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:105
-#: Travian-Unit-Advice-Simulator/teutons.php:133 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:161
-#: Travian-Unit-Advice-Simulator/teutons.php:189 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:217
-#: Travian-Unit-Advice-Simulator/teutons.php:245 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:273
-#: Travian-Unit-Advice-Simulator/teutons.php:301 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:329
+#: Travian-Unit-Advice-Simulator/gauls.php:77 Travian-Unit-Advice-Simulator/gauls.php:105 Travian-Unit-Advice-Simulator/gauls.php:133
+#: Travian-Unit-Advice-Simulator/gauls.php:161 Travian-Unit-Advice-Simulator/gauls.php:189 Travian-Unit-Advice-Simulator/gauls.php:217
+#: Travian-Unit-Advice-Simulator/gauls.php:245 Travian-Unit-Advice-Simulator/gauls.php:273 Travian-Unit-Advice-Simulator/gauls.php:301
+#: Travian-Unit-Advice-Simulator/gauls.php:329 Travian-Unit-Advice-Simulator/romans.php:77 Travian-Unit-Advice-Simulator/romans.php:105
+#: Travian-Unit-Advice-Simulator/romans.php:133 Travian-Unit-Advice-Simulator/romans.php:161 Travian-Unit-Advice-Simulator/romans.php:189
+#: Travian-Unit-Advice-Simulator/romans.php:217 Travian-Unit-Advice-Simulator/romans.php:245 Travian-Unit-Advice-Simulator/romans.php:273
+#: Travian-Unit-Advice-Simulator/romans.php:301 Travian-Unit-Advice-Simulator/romans.php:329 Travian-Unit-Advice-Simulator/teutons.php:77
+#: Travian-Unit-Advice-Simulator/teutons.php:105 Travian-Unit-Advice-Simulator/teutons.php:133 Travian-Unit-Advice-Simulator/teutons.php:161
+#: Travian-Unit-Advice-Simulator/teutons.php:189 Travian-Unit-Advice-Simulator/teutons.php:217 Travian-Unit-Advice-Simulator/teutons.php:245
+#: Travian-Unit-Advice-Simulator/teutons.php:273 Travian-Unit-Advice-Simulator/teutons.php:301 Travian-Unit-Advice-Simulator/teutons.php:329
 msgid "19th level"
 msgstr "19'uncu seviye"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:78 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:106
-#: Travian-Unit-Advice-Simulator/gauls.php:134 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:162
-#: Travian-Unit-Advice-Simulator/gauls.php:190 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:218
-#: Travian-Unit-Advice-Simulator/gauls.php:246 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:274
-#: Travian-Unit-Advice-Simulator/gauls.php:302 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/gauls.php:330
-#: Travian-Unit-Advice-Simulator/romans.php:78 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:106
-#: Travian-Unit-Advice-Simulator/romans.php:134 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:162
-#: Travian-Unit-Advice-Simulator/romans.php:190 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:218
-#: Travian-Unit-Advice-Simulator/romans.php:246 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:274
-#: Travian-Unit-Advice-Simulator/romans.php:302 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:330
-#: Travian-Unit-Advice-Simulator/teutons.php:78 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:106
-#: Travian-Unit-Advice-Simulator/teutons.php:134 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:162
-#: Travian-Unit-Advice-Simulator/teutons.php:190 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:218
-#: Travian-Unit-Advice-Simulator/teutons.php:246 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:274
-#: Travian-Unit-Advice-Simulator/teutons.php:302 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:330
+#: Travian-Unit-Advice-Simulator/gauls.php:78 Travian-Unit-Advice-Simulator/gauls.php:106 Travian-Unit-Advice-Simulator/gauls.php:134
+#: Travian-Unit-Advice-Simulator/gauls.php:162 Travian-Unit-Advice-Simulator/gauls.php:190 Travian-Unit-Advice-Simulator/gauls.php:218
+#: Travian-Unit-Advice-Simulator/gauls.php:246 Travian-Unit-Advice-Simulator/gauls.php:274 Travian-Unit-Advice-Simulator/gauls.php:302
+#: Travian-Unit-Advice-Simulator/gauls.php:330 Travian-Unit-Advice-Simulator/romans.php:78 Travian-Unit-Advice-Simulator/romans.php:106
+#: Travian-Unit-Advice-Simulator/romans.php:134 Travian-Unit-Advice-Simulator/romans.php:162 Travian-Unit-Advice-Simulator/romans.php:190
+#: Travian-Unit-Advice-Simulator/romans.php:218 Travian-Unit-Advice-Simulator/romans.php:246 Travian-Unit-Advice-Simulator/romans.php:274
+#: Travian-Unit-Advice-Simulator/romans.php:302 Travian-Unit-Advice-Simulator/romans.php:330 Travian-Unit-Advice-Simulator/teutons.php:78
+#: Travian-Unit-Advice-Simulator/teutons.php:106 Travian-Unit-Advice-Simulator/teutons.php:134 Travian-Unit-Advice-Simulator/teutons.php:162
+#: Travian-Unit-Advice-Simulator/teutons.php:190 Travian-Unit-Advice-Simulator/teutons.php:218 Travian-Unit-Advice-Simulator/teutons.php:246
+#: Travian-Unit-Advice-Simulator/teutons.php:274 Travian-Unit-Advice-Simulator/teutons.php:302 Travian-Unit-Advice-Simulator/teutons.php:330
 msgid "20th level"
 msgstr "20'nci seviye"
 
@@ -566,7 +454,7 @@ msgstr "Druyid'in seviyesi"
 msgid "Haeduan's level"
 msgstr "Heduan'ın seviyesi"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:222 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/teutons.php:222
+#: Travian-Unit-Advice-Simulator/gauls.php:222 Travian-Unit-Advice-Simulator/teutons.php:222
 msgid "Ram's level"
 msgstr "Koçbaşı'nın seviyesi"
 
@@ -578,183 +466,185 @@ msgstr "Mancınık'ın seviyesi"
 msgid "Chieftain's level"
 msgstr "Kabile Reisi'nin seviyesi"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:306 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:306
-#: Travian-Unit-Advice-Simulator/teutons.php:306
+#: Travian-Unit-Advice-Simulator/gauls.php:306 Travian-Unit-Advice-Simulator/romans.php:306 Travian-Unit-Advice-Simulator/teutons.php:306
 msgid "Settler's level"
 msgstr "Göçmen'in seviyesi"
 
-#: Travian-Unit-Advice-Simulator/gauls.php:336 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/romans.php:336
-#: Travian-Unit-Advice-Simulator/teutons.php:336
+#: Travian-Unit-Advice-Simulator/gauls.php:336 Travian-Unit-Advice-Simulator/romans.php:336 Travian-Unit-Advice-Simulator/teutons.php:336
 msgid "Give me an advice"
 msgstr "Bana öneride bulun"
 
-#: Travian-Unit-Advice-Simulator/header.php:7 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/home.php:8
-msgid "Travian Unit Advice Simulator"
-msgstr "Travian Birim Öneri Simülatörü"
-
-#: Travian-Unit-Advice-Simulator/header.php:24
+#: Travian-Unit-Advice-Simulator/header.php:29
 msgid "Home"
 msgstr "Anasayfa"
 
-#: Travian-Unit-Advice-Simulator/header.php:25 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/home.php:13
+#: Travian-Unit-Advice-Simulator/header.php:30 Travian-Unit-Advice-Simulator/home.php:13
 msgid "Gauls"
 msgstr "Galyalılar"
 
-#: Travian-Unit-Advice-Simulator/header.php:26 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/home.php:14
+#: Travian-Unit-Advice-Simulator/header.php:31 Travian-Unit-Advice-Simulator/home.php:14
 msgid "Romans"
 msgstr "Romalılar"
 
-#: Travian-Unit-Advice-Simulator/header.php:27 D:\localhost\htdocs\travian\Travian-Unit-Advice-Simulator/home.php:15
+#: Travian-Unit-Advice-Simulator/header.php:32 Travian-Unit-Advice-Simulator/home.php:15
 msgid "Teutons"
 msgstr "Cermenler"
 
-#: Travian-Unit-Advice-Simulator/header.php:34
+#: Travian-Unit-Advice-Simulator/header.php:39
 msgid "Add another language"
 msgstr "Başka bir dil ekle"
 
-#: Travian-Unit-Advice-Simulator/home.php:9
+#: Travian-Unit-Advice-Simulator/locale.php:36
+msgid "Travian Unit Advice Simulator"
+msgstr "Travian Birim Öneri Simülatörü"
+
+#: Travian-Unit-Advice-Simulator/locale.php:37
 msgid ""
 "Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian "
 "4.4."
 msgstr "Travian Birim Öneri Simülatörü, mevcut hammaddenize göre hangi birimi yetiştirmeniz gerektiğini öneren, Travian 4.4 için hazırlanmış bir araçtır."
 
-#: Travian-Unit-Advice-Simulator/locale.php:35
+#: Travian-Unit-Advice-Simulator/locale.php:38
+msgid "Travian UAS is released under GNU General Public License, version 3."
+msgstr "Travian UAS, GNU Genel Kamu Lisansı, sürüm 3 altında yayınlandı."
+
+#: Travian-Unit-Advice-Simulator/locale.php:40
 msgid "Units"
 msgstr "Birimler"
 
-#: Travian-Unit-Advice-Simulator/locale.php:36
+#: Travian-Unit-Advice-Simulator/locale.php:41
 msgid "Quantity"
 msgstr "Miktar"
 
-#: Travian-Unit-Advice-Simulator/locale.php:37
+#: Travian-Unit-Advice-Simulator/locale.php:42
 msgid "Speed"
 msgstr "Hız"
 
-#: Travian-Unit-Advice-Simulator/locale.php:38
+#: Travian-Unit-Advice-Simulator/locale.php:43
 msgid "Total upkeep"
 msgstr "Toplam bakım"
 
-#: Travian-Unit-Advice-Simulator/locale.php:39
+#: Travian-Unit-Advice-Simulator/locale.php:44
 msgid "Total carrying capacity"
 msgstr "Toplam taşıma kapasitesi"
 
-#: Travian-Unit-Advice-Simulator/locale.php:40
+#: Travian-Unit-Advice-Simulator/locale.php:45
 msgid "Total attack force"
 msgstr "Toplam saldırı gücü"
 
-#: Travian-Unit-Advice-Simulator/locale.php:41
+#: Travian-Unit-Advice-Simulator/locale.php:46
 msgid "Total infantry defense force"
 msgstr "Toplam piyade savunma gücü"
 
-#: Travian-Unit-Advice-Simulator/locale.php:42
+#: Travian-Unit-Advice-Simulator/locale.php:47
 msgid "Total cavalry defense force"
 msgstr "Toplam süvari savunma gücü"
 
-#: Travian-Unit-Advice-Simulator/locale.php:43
+#: Travian-Unit-Advice-Simulator/locale.php:48
 msgid "Legionnaire"
 msgstr "Lejyoner"
 
-#: Travian-Unit-Advice-Simulator/locale.php:44
+#: Travian-Unit-Advice-Simulator/locale.php:49
 msgid "Praetorian"
 msgstr "Pretoryan"
 
-#: Travian-Unit-Advice-Simulator/locale.php:45
+#: Travian-Unit-Advice-Simulator/locale.php:50
 msgid "Imperian"
 msgstr "Emperyan"
 
-#: Travian-Unit-Advice-Simulator/locale.php:46
+#: Travian-Unit-Advice-Simulator/locale.php:51
 msgid "Equites Legati"
 msgstr "Equites Legati"
 
-#: Travian-Unit-Advice-Simulator/locale.php:47
+#: Travian-Unit-Advice-Simulator/locale.php:52
 msgid "Equites Imperatoris"
 msgstr "Equites Imperatoris"
 
-#: Travian-Unit-Advice-Simulator/locale.php:48
+#: Travian-Unit-Advice-Simulator/locale.php:53
 msgid "Equites Caesaris"
 msgstr "Equites Caesaris"
 
-#: Travian-Unit-Advice-Simulator/locale.php:49
+#: Travian-Unit-Advice-Simulator/locale.php:54
 msgid "Battering Ram"
 msgstr "Koçbaşı"
 
-#: Travian-Unit-Advice-Simulator/locale.php:50
+#: Travian-Unit-Advice-Simulator/locale.php:55
 msgid "Fire Catapult"
 msgstr "Ateş Mancınığı"
 
-#: Travian-Unit-Advice-Simulator/locale.php:51
+#: Travian-Unit-Advice-Simulator/locale.php:56
 msgid "Senator"
 msgstr "Senatör"
 
-#: Travian-Unit-Advice-Simulator/locale.php:52
+#: Travian-Unit-Advice-Simulator/locale.php:57
 msgid "Settler"
 msgstr "Göçmen"
 
-#: Travian-Unit-Advice-Simulator/locale.php:53
+#: Travian-Unit-Advice-Simulator/locale.php:58
 msgid "Phalanx"
 msgstr "Phalanx"
 
-#: Travian-Unit-Advice-Simulator/locale.php:54
+#: Travian-Unit-Advice-Simulator/locale.php:59
 msgid "Swordsman"
 msgstr "Kılıçlı"
 
-#: Travian-Unit-Advice-Simulator/locale.php:55
+#: Travian-Unit-Advice-Simulator/locale.php:60
 msgid "Pathfinder"
 msgstr "Casus"
 
-#: Travian-Unit-Advice-Simulator/locale.php:56
+#: Travian-Unit-Advice-Simulator/locale.php:61
 msgid "Theutates Thunder"
 msgstr "Toytatın Şimşeği"
 
-#: Travian-Unit-Advice-Simulator/locale.php:57
+#: Travian-Unit-Advice-Simulator/locale.php:62
 msgid "Druidrider"
 msgstr "Druyid"
 
-#: Travian-Unit-Advice-Simulator/locale.php:58
+#: Travian-Unit-Advice-Simulator/locale.php:63
 msgid "Haeduan"
 msgstr "Heduan"
 
-#: Travian-Unit-Advice-Simulator/locale.php:59
+#: Travian-Unit-Advice-Simulator/locale.php:64
 msgid "Ram"
 msgstr "Koçbaşı"
 
-#: Travian-Unit-Advice-Simulator/locale.php:60
+#: Travian-Unit-Advice-Simulator/locale.php:65
 msgid "Trebuchet"
 msgstr "Mancınık"
 
-#: Travian-Unit-Advice-Simulator/locale.php:61
+#: Travian-Unit-Advice-Simulator/locale.php:66
 msgid "Chieftain"
 msgstr "Kabile Reisi"
 
-#: Travian-Unit-Advice-Simulator/locale.php:62
+#: Travian-Unit-Advice-Simulator/locale.php:67
 msgid "Clubswinger"
 msgstr "Tokmak Sallayan"
 
-#: Travian-Unit-Advice-Simulator/locale.php:63
+#: Travian-Unit-Advice-Simulator/locale.php:68
 msgid "Spearman"
 msgstr "Mızrakçı"
 
-#: Travian-Unit-Advice-Simulator/locale.php:64
+#: Travian-Unit-Advice-Simulator/locale.php:69
 msgid "Axeman"
 msgstr "Balta Sallayan"
 
-#: Travian-Unit-Advice-Simulator/locale.php:65
+#: Travian-Unit-Advice-Simulator/locale.php:70
 msgid "Scout"
 msgstr "Casus"
 
-#: Travian-Unit-Advice-Simulator/locale.php:66
+#: Travian-Unit-Advice-Simulator/locale.php:71
 msgid "Paladin"
 msgstr "Paladin"
 
-#: Travian-Unit-Advice-Simulator/locale.php:67
+#: Travian-Unit-Advice-Simulator/locale.php:72
 msgid "Teutonic Knight"
 msgstr "Toyton"
 
-#: Travian-Unit-Advice-Simulator/locale.php:68
+#: Travian-Unit-Advice-Simulator/locale.php:73
 msgid "Catapult"
 msgstr "Mancınık"
 
-#: Travian-Unit-Advice-Simulator/locale.php:69
+#: Travian-Unit-Advice-Simulator/locale.php:74
 msgid "Chief"
 msgstr "Reis"
 

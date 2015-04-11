@@ -125,15 +125,20 @@ body {
 	text-align: right;
 }
 
-	.license {
+	.code {
 		bottom: 6px;
 		color: #221e1b;
 		position: fixed;
 		right: 100px;
+		margin: 0;
+}
+
+	.code a {
+		color: #221e1b;
 		text-decoration: none;
 	}
 	
-	.license:hover {
+	.code a:hover {
 		color: #024457;
 	}
 

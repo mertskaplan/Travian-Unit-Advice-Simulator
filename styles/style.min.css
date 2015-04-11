@@ -17,8 +17,9 @@ body{background-image:url(/images/fon.png);background-position:left top;backgrou
 #turkish:hover{margin:6px 5px 2px}
 #add-language{background:url(/images/flags/plus.png);height:16px;width:22px}
 .footer{bottom:0;height:50px;width:100%;position:fixed;text-align:right}
-.license{bottom:6px;color:#221e1b;position:fixed;right:100px;text-decoration:none}
-.license:hover{color:#024457}
+.code{bottom:6px;color:#221e1b;position:fixed;right:100px;margin: 0}
+.code a{color:#221e1b;text-decoration:none}
+.code a:hover{color:#024457}
 .github{background-image:url(/images/cloud.png);background-repeat:no-repeat;height:50px;position:fixed;right:0;width:95px}
 .github a img{bottom:8px;height:16px;position:fixed;right:10px;width:62px}
 .title{margin:50px auto 0;text-align:center;width:880px}
