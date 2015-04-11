@@ -6,6 +6,7 @@ $page_name = "home";
 
 <div class="title">
 	<h1><?php echo _("Travian Unit Advice Simulator"); ?></h1>
+	<p><?php echo _("Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian 4.4."); ?></p>
 </div>
 
 <div class="selection">

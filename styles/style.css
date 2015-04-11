@@ -159,6 +159,12 @@ body {
     margin-bottom: 10px;
 }
 
+.title p {
+    color: #221e1b;
+    margin: 0 auto;
+    width: 600px;
+}
+
 .selection {
 	height: 470px;
 	margin: 0 auto;

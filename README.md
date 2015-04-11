@@ -1,5 +1,5 @@
 # Travian Unit Advice Simulator
-Travian Unit Advice Simulator
+Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian 4.4.
 
 > **Demo:** http://travianuas.tk/
 
