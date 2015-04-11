@@ -32,6 +32,9 @@ $tokens = explode('/', $url);
 
 // locale texts
 
+	$locale_title = _('Travian Unit Advice Simulator');
+	$locale_description = _('Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian 4.4.');
+	$locale_license = _('Travian UAS is released under GNU General Public License, version 3.');
 	$locale_units = _('Units');
 	$locale_quantity = _('Quantity');
 	$locale_speed = _('Speed');
@@ -67,5 +70,4 @@ $tokens = explode('/', $url);
 	$locale_teutonic_knight = _('Teutonic Knight');
 	$locale_catapult = _('Catapult');
 	$locale_chief = _('Chief');
-	
 ?>
