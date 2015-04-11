@@ -1,13 +1,20 @@
 <?php include_once("locale.php"); ?>
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" style="height: 100%;">
 
 <head>
-    <title><?php echo _('Travian Unit Advice Simulator') ?></title>
+    <title><?php echo $locale_title ?></title>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
 	<meta name="author" content="mertskaplan" />
-	<meta name="copyright" content="GNU General Public License, version 3" />
+	<meta name="copyright" content="<?php echo $locale_license ?>" />
+	
+	<meta property="og:title" content="<?php echo $locale_title ?>" />
+	<meta property="og:url" content="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>" />
+	<meta property="og:description" content="<?php echo $locale_description ?>" />
+	<meta property="og:image" content="<?php echo 'http://' . $_SERVER['HTTP_HOST'] ?>/images/favicon.png" />
+	<meta property="og:image:width" content="260" />
+	<meta property="og:image:height" content="260" />
+	
 	<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
 	<link rel="icon" type="image/png" href="/images/favicon.png" />
 	<link type="text/css" rel="stylesheet" href="/styles/tooltip.min.css" />
@@ -16,9 +23,7 @@
 </head>
 
 <body>
-
 <div class="header">
-
 	<div class="menu">
 		<ul>
 			<li><a href="home"><?php echo _('Home') ?></a></li>
