@@ -36,7 +36,7 @@ $tokens = explode('/', $url);
 	$locale_title = _('Travian Unit Advice Simulator');
 	$locale_description = _('Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian 4.4.');
 	$locale_license = _('Travian UAS is released under GNU General Public License, version 3.');
-	$locale_mertskaplan = '<a target="_blank" href="https://twitter.com/mertskaplan">@mertskaplan</a>';
+	$locale_mertskaplan = '<a target="_blank" href="http://mertskaplan.com/">mertskaplan</a>';
 	$locale_units = _('Units');
 	$locale_quantity = _('Quantity');
 	$locale_speed = _('Speed');
