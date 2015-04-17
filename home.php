@@ -10,9 +10,9 @@ $page_name = "home";
 </div>
 
 <div class="selection">
-	<a href="gauls"><div class="selection-gauls"><div><?php echo _("Gauls"); ?></div></div></a>
-	<a href="romans"><div class="selection-romans"><div><?php echo _("Romans"); ?></div></div></a>
-	<a href="teutons"><div class="selection-teutons"><div><?php echo _("Teutons"); ?></div></div></a>
+	<a href="gauls"><div class="selection-gauls"><p><?php echo _("Gauls"); ?></p></div></a>
+	<a href="romans"><div class="selection-romans"><p><?php echo _("Romans"); ?></p></div></a>
+	<a href="teutons"><div class="selection-teutons"><p><?php echo _("Teutons"); ?></p></div></a>
 </div>
 
 <?php

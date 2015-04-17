@@ -222,7 +222,7 @@ body {
 		opacity: 1;
 	}
 	
-	.selection-gauls div, .selection-romans div, .selection-teutons div {
+	.selection-gauls p, .selection-romans p, .selection-teutons p {
 		color: #3e3e3e;
 		font-size: 35px;
 		font-family: 'Merienda', cursive;
@@ -230,11 +230,11 @@ body {
 		text-align: center;
 	}
 	
-	.selection-gauls div {
+	.selection-gauls p {
 		margin-left: -55px;
 	}
 	
-	.selection-teutons div {
+	.selection-teutons p {
 		margin-left: 30px;
 	}
 	

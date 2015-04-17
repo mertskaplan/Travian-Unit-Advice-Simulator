@@ -17,7 +17,7 @@ body{background-image:url(/images/fon.png);background-position:left top;backgrou
 #turkish:hover{margin:6px 5px 2px}
 #add-language{background:url(/images/flags/plus.png);height:16px;width:22px}
 .footer{bottom:0;height:50px;width:100%;position:fixed;text-align:right}
-.code{bottom:6px;color:#221e1b;position:fixed;right:100px;margin: 0}
+.code{bottom:6px;color:#221e1b;position:fixed;right:100px;margin:0}
 .code a{color:#221e1b;text-decoration:none}
 .code a:hover{color:#024457}
 .github{background-image:url(/images/cloud.png);background-repeat:no-repeat;height:50px;position:fixed;right:0;width:95px}
@@ -32,9 +32,9 @@ body{background-image:url(/images/fon.png);background-position:left top;backgrou
 .selection-romans:hover{opacity:1}
 .selection-teutons{background-image:url(/images/teutons.png);background-repeat:no-repeat;float:left;height:470px;opacity:.6;width:315px}
 .selection-teutons:hover{opacity:1}
-.selection-gauls div,.selection-romans div,.selection-teutons div{color:#3e3e3e;font-size:35px;font-family:'Merienda',cursive;margin-top:358px;text-align:center}
-.selection-gauls div{margin-left:-55px}
-.selection-teutons div{margin-left:30px}
+.selection-gauls p,.selection-romans p,.selection-teutons p{color:#3e3e3e;font-size:35px;font-family:'Merienda',cursive;margin-top:358px;text-align:center}
+.selection-gauls p{margin-left:-55px}
+.selection-teutons p{margin-left:30px}
 .selection div a img{opacity:.6;filter:alpha(opacity=60)}
 .selection div a img:hover{opacity:1;filter:alpha(opacity=100)}
 .form{padding:50px 0}

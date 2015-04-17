@@ -530,17 +530,17 @@
 			<table class="responstable" border="1">
 				<tr>
 					<th class="table-units" colspan="2"><strong>$locale_units</strong></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
 				</tr>
 				<tr>
 					<td class="table-units">$locale_legionnaire</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_legionnaire"><img class="legionnaire" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_legionnaire"><img class="legionnaire" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_legionnaire</td>
 					<td>$legionnaire_speed</td>
 					<td>$format_legionnaire_upkeep</td>
@@ -551,7 +551,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_praetorian</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_praetorian"><img class="praetorian" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_praetorian"><img class="praetorian" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_praetorian</td>
 					<td>$praetorian_speed</td>
 					<td>$format_praetorian_upkeep</td>
@@ -562,7 +562,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_imperian</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_imperian"><img class="imperian" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_imperian"><img class="imperian" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_imperian</td>
 					<td>$imperian_speed</td>
 					<td>$format_imperian_upkeep</td>
@@ -573,7 +573,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_legati</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_legati"><img class="equites-legati" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_legati"><img class="equites-legati" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_legati</td>
 					<td>$legati_speed</td>
 					<td>$format_legati_upkeep</td>
@@ -584,7 +584,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_imperatoris</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_imperatoris"><img class="equites-imperatoris" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_imperatoris"><img class="equites-imperatoris" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_imperatoris</td>
 					<td>$imperatoris_speed</td>
 					<td>$format_imperatoris_upkeep</td>
@@ -595,7 +595,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_caesaris</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_caesaris"><img class="equites-caesaris" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_caesaris"><img class="equites-caesaris" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_caesaris</td>
 					<td>$caesaris_speed</td>
 					<td>$format_caesaris_upkeep</td>
@@ -606,7 +606,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_battering_ram</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_battering_ram"><img class="battering-ram" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_battering_ram"><img class="battering-ram" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_battering_ram</td>
 					<td>$battering_ram_speed</td>
 					<td>$format_battering_ram_upkeep</td>
@@ -617,7 +617,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_fire_catapult</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_fire_catapult"><img class="fire-catapult" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_fire_catapult"><img class="fire-catapult" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_fire_catapult</td>
 					<td>$fire_catapult_speed</td>
 					<td>$format_fire_catapult_upkeep</td>
@@ -628,7 +628,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_senator</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_senator"><img class="senator" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_senator"><img class="senator" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_senator</td>
 					<td>$senator_speed</td>
 					<td>$format_senator_upkeep</td>
@@ -639,7 +639,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_settler</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="roman-settler" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="roman-settler" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_settler</td>
 					<td>$settler_speed</td>
 					<td>$format_settler_upkeep</td>

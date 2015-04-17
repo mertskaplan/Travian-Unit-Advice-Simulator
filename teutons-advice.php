@@ -530,17 +530,17 @@
 			<table class="responstable" border="1">
 				<tr>
 					<th class="table-units" colspan="2"><strong>$locale_units</strong></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" height="1" width="1" src="/images/x.gif" /></a></th>
-					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" height="1" width="1" src="/images/x.gif" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_quantity"><img class="quantity" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_speed"><img class="speed" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_upkeep"><img class="upkeep" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-right" data-tooltip="$locale_total_carrying_capacity"><img class="carry" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_attack_force"><img class="attack" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_infantry_defense_force"><img class="inf-def" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
+					<th width="100px"><a class="tooltip-left" data-tooltip="$locale_total_cavalry_defense_force"><img class="cav-def" height="1" width="1" src="/images/x.gif" alt="" /></a></th>
 				</tr>
 				<tr>
 					<td class="table-units">$locale_clubswinger</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_clubswinger"><img class="clubswinger" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_clubswinger"><img class="clubswinger" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_clubswinger</td>
 					<td>$clubswinger_speed</td>
 					<td>$format_clubswinger_upkeep</td>
@@ -551,7 +551,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_spearman</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_spearman"><img class="spearman" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_spearman"><img class="spearman" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_spearman</td>
 					<td>$spearman_speed</td>
 					<td>$format_spearman_upkeep</td>
@@ -562,7 +562,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_axeman</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_axeman"><img class="axeman" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_axeman"><img class="axeman" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_axeman</td>
 					<td>$axeman_speed</td>
 					<td>$format_axeman_upkeep</td>
@@ -573,7 +573,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_scout</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_scout"><img class="scout" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_scout"><img class="scout" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_scout</td>
 					<td>$scout_speed</td>
 					<td>$format_scout_upkeep</td>
@@ -584,7 +584,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_paladin</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_paladin"><img class="paladin" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_paladin"><img class="paladin" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_paladin</td>
 					<td>$paladin_speed</td>
 					<td>$format_paladin_upkeep</td>
@@ -595,7 +595,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_teutonic_knight</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_teutonic_knight"><img class="teutonic-knight" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_teutonic_knight"><img class="teutonic-knight" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_teutonic_knight</td>
 					<td>$teutonic_knight_speed</td>
 					<td>$format_teutonic_knight_upkeep</td>
@@ -606,7 +606,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_ram</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_ram"><img class="teutonic-ram" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_ram"><img class="teutonic-ram" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_ram</td>
 					<td>$ram_speed</td>
 					<td>$format_ram_upkeep</td>
@@ -617,7 +617,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_catapult</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_catapult"><img class="catapult" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_catapult"><img class="catapult" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_catapult</td>
 					<td>$catapult_speed</td>
 					<td>$format_catapult_upkeep</td>
@@ -628,7 +628,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_chief</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_chief"><img class="chief" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_chief"><img class="chief" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_chief</td>
 					<td>$chief_speed</td>
 					<td>$format_chief_upkeep</td>
@@ -639,7 +639,7 @@
 				</tr>
 				<tr>
 					<td class="table-units">$locale_settler</td>
-					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="teutonic-settler" height="1" width="1" src="/images/x.gif" /></a></td>
+					<td><a class="tooltip-right" data-tooltip="$locale_settler"><img class="teutonic-settler" height="1" width="1" src="/images/x.gif" alt="" /></a></td>
 					<td>$format_possible_settler</td>
 					<td>$settler_speed</td>
 					<td>$format_settler_upkeep</td>
