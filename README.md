@@ -16,6 +16,6 @@ Currently available in English and Turkish. And you can add another language on 
 Travian UAS is released under [GNU General Public License, version 3](http://travianuas.tk/LICENSE).
 
 ### Coding ###
-Mert Salih Kaplan 
+Coded with ❤ by Mert Salih Kaplan 
 
 Web: [mertskaplan.com](http://mertskaplan.com) | Mail: [mail@mertskaplan.com](mailto:mail@mertskaplan.com) | GitHub: [mertskaplan](https://github.com/mertskaplan/) | Twitter: [@mertskaplan](https://twitter.com/mertskaplan) 
