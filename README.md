@@ -4,6 +4,7 @@
 
 [![Build Status](https://travis-ci.org/mertskaplan/Travian-Unit-Advice-Simulator.svg?branch=master)](https://travis-ci.org/mertskaplan/Travian-Unit-Advice-Simulator)
 [![Join the chat at https://gitter.im/mertskaplan/Travian-Unit-Advice-Simulator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mertskaplan/Travian-Unit-Advice-Simulator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Coverage Status](https://coveralls.io/repos/mertskaplan/Travian-Unit-Advice-Simulator/badge.svg)](https://coveralls.io/r/mertskaplan/Travian-Unit-Advice-Simulator)
 
 Travian Unit Advice Simulator is a tool which gives advice to you about you should train which unit according to your available materials for Travian 4.4.
 
